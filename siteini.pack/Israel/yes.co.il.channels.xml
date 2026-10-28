@@ -1,146 +1,181 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/53.17 -- Jan van Straaten" site="yes.co.il()">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="yes.co.il">
   <channels>
-    <channel update="i" site="yes.co.il" site_id="PT38" xmltv_id="logo_channel">logo_channel</channel>
-    <channel update="i" site="yes.co.il" site_id="YES1" xmltv_id="yes1hd">yes1hd</channel>
-    <channel update="i" site="yes.co.il" site_id="YES2" xmltv_id="yes2hd">yes2hd</channel>
-    <channel update="i" site="yes.co.il" site_id="YES3" xmltv_id="yes3hd">yes3hd</channel>
-    <channel update="i" site="yes.co.il" site_id="YES6" xmltv_id="yes4hd">yes4hd</channel>
-    <channel update="i" site="yes.co.il" site_id="YES4" xmltv_id="yes5hd">yes5hd</channel>
-    <channel update="i" site="yes.co.il" site_id="YSAU" xmltv_id="yesisraeli">yesisraeli</channel>
-    <channel update="i" site="yes.co.il" site_id="YSAT" xmltv_id="Yes_Doco_white">Yes_Doco_white</channel>
-    <channel update="i" site="yes.co.il" site_id="TV50" xmltv_id="9">9</channel>
-    <channel update="i" site="yes.co.il" site_id="TV04" xmltv_id="10">10</channel>
-    <channel update="i" site="yes.co.il" site_id="TV11" xmltv_id="Ch1">Ch1</channel>
-    <channel update="i" site="yes.co.il" site_id="YESU" xmltv_id="Yes_Drama_white">Yes_Drama_white</channel>
-    <channel update="i" site="yes.co.il" site_id="YESV" xmltv_id="Yes_Action_white">Yes_Action_white</channel>
-    <channel update="i" site="yes.co.il" site_id="YSAR" xmltv_id="yesoh">yesoh</channel>
-    <channel update="i" site="yes.co.il" site_id="YESP" xmltv_id="Yes_Comedy_white">Yes_Comedy_white</channel>
-    <channel update="i" site="yes.co.il" site_id="YESS" xmltv_id="Yes_Base_white">Yes_Base_white</channel>
-    <channel update="i" site="yes.co.il" site_id="PT92" xmltv_id="Arutz20.jpg">Arutz20.jpg</channel>
-    <channel update="i" site="yes.co.il" site_id="TV21" xmltv_id="shopping">shopping</channel>
-    <channel update="i" site="yes.co.il" site_id="TV22" xmltv_id="channel2">channel2</channel>
-    <channel update="i" site="yes.co.il" site_id="TV23" xmltv_id="23">23</channel>
-    <channel update="i" site="yes.co.il" site_id="TV67" xmltv_id="24">24</channel>
-    <channel update="i" site="yes.co.il" site_id="PT72" xmltv_id="ActionHD">ActionHD</channel>
-    <channel update="i" site="yes.co.il" site_id="PT28" xmltv_id="Travel_white">Travel_white</channel>
-    <channel update="i" site="yes.co.il" site_id="PT20" xmltv_id="food_white">food_white</channel>
-    <channel update="i" site="yes.co.il" site_id="PT14" xmltv_id="health">health</channel>
-    <channel update="i" site="yes.co.il" site_id="PT63" xmltv_id="halatv">halatv</channel>
-    <channel update="i" site="yes.co.il" site_id="TV09" xmltv_id="Lifestyle_White">Lifestyle_White</channel>
-    <channel update="i" site="yes.co.il" site_id="TV28" xmltv_id="bbc_entertainment_white">bbc_entertainment_white</channel>
-    <channel update="i" site="yes.co.il" site_id="TV33" xmltv_id="33">33</channel>
-    <channel update="i" site="yes.co.il" site_id="PT71" xmltv_id="CBS_drama">CBS_drama</channel>
-    <channel update="i" site="yes.co.il" site_id="TV20" xmltv_id="Viva">Viva</channel>
-    <channel update="i" site="yes.co.il" site_id="PT60" xmltv_id="Viva">Viva</channel>
+    <channel update="i" site="yes.co.il" site_id="YS21" xmltv_id="yes+ Love">yes+ Love</channel>
+    <channel update="i" site="yes.co.il" site_id="YSA1" xmltv_id="yes Movies Drama">yes Movies Drama</channel>
+    <channel update="i" site="yes.co.il" site_id="YSA2" xmltv_id="yes Movies Action">yes Movies Action</channel>
+    <channel update="i" site="yes.co.il" site_id="YSA3" xmltv_id="yes Movies Comedy">yes Movies Comedy</channel>
+    <channel update="i" site="yes.co.il" site_id="YSAU" xmltv_id="yes Israeli Cinema HD IP only">yes Israeli Cinema HD IP only</channel>
+    <channel update="i" site="yes.co.il" site_id="YS19" xmltv_id="yes+ cinema">yes+ cinema</channel>
+    <channel update="i" site="yes.co.il" site_id="YS20" xmltv_id="yes+ diamonds">yes+ diamonds</channel>
+    <channel update="i" site="yes.co.il" site_id="YS22" xmltv_id="yes+ Dark">yes+ Dark</channel>
+    <channel update="i" site="yes.co.il" site_id="YSAT" xmltv_id="yes Docu HD">yes Docu HD</channel>
+    <channel update="i" site="yes.co.il" site_id="TV50" xmltv_id="Israel Plus (9)">Israel Plus (9)</channel>
+    <channel update="i" site="yes.co.il" site_id="CN32" xmltv_id="Economics 10">Economics 10</channel>
+    <channel update="i" site="yes.co.il" site_id="CH30" xmltv_id="Kan HD">Kan HD</channel>
+    <channel update="i" site="yes.co.il" site_id="CH34" xmltv_id="Keshet HD">Keshet HD</channel>
+    <channel update="i" site="yes.co.il" site_id="CH36" xmltv_id="Reshet HD">Reshet HD</channel>
+    <channel update="i" site="yes.co.il" site_id="PT92" xmltv_id="Channel 14 HD">Channel 14 HD</channel>
+    <channel update="i" site="yes.co.il" site_id="CN28" xmltv_id="i24 Hebrew">i24 Hebrew</channel>
+    <channel update="i" site="yes.co.il" site_id="CH70" xmltv_id="Turkish Drama">Turkish Drama</channel>
+    <channel update="i" site="yes.co.il" site_id="CH80" xmltv_id="Turkish Drama 2">Turkish Drama 2</channel>
+    <channel update="i" site="yes.co.il" site_id="YESU" xmltv_id="yes TV Drama">yes TV Drama</channel>
+    <channel update="i" site="yes.co.il" site_id="YESV" xmltv_id="yes TV Action">yes TV Action</channel>
+    <channel update="i" site="yes.co.il" site_id="YESP" xmltv_id="yes TV Comedy">yes TV Comedy</channel>
+    <channel update="i" site="yes.co.il" site_id="CH77" xmltv_id="Turkish Drama 3">Turkish Drama 3</channel>
+    <channel update="i" site="yes.co.il" site_id="CH65" xmltv_id="Humor Channel">Humor Channel</channel>
+    <channel update="i" site="yes.co.il" site_id="YS17" xmltv_id="23 - Only Israeli">23 - Only Israeli</channel>
+    <channel update="i" site="yes.co.il" site_id="TV67" xmltv_id="Music 24">Music 24</channel>
+    <channel update="i" site="yes.co.il" site_id="PT72" xmltv_id="Mediterranean Channel">Mediterranean Channel</channel>
+    <channel update="i" site="yes.co.il" site_id="PT38" xmltv_id="Big Brother HD">Big Brother HD</channel>
+    <channel update="i" site="yes.co.il" site_id="CN63" xmltv_id="Humor Channel 2">Humor Channel 2</channel>
+    <channel update="i" site="yes.co.il" site_id="CN26" xmltv_id="Classic Comedies">Classic Comedies</channel>
+    <channel update="i" site="yes.co.il" site_id="CN64" xmltv_id="Israeli Drama">Israeli Drama</channel>
     <channel update="i" site="yes.co.il" site_id="TV10" xmltv_id="E">E</channel>
-    <channel update="i" site="yes.co.il" site_id="PT41" xmltv_id="bayit">bayit</channel>
-    <channel update="i" site="yes.co.il" site_id="TV05" xmltv_id="MGM">MGM</channel>
-    <channel update="i" site="yes.co.il" site_id="TV18" xmltv_id="discovery_sHD">discovery_sHD</channel>
-    <channel update="i" site="yes.co.il" site_id="TV17" xmltv_id="NG">NG</channel>
-    <channel update="i" site="yes.co.il" site_id="PT25" xmltv_id="ngc_hd.jpg">ngc_hd.jpg</channel>
-    <channel update="i" site="yes.co.il" site_id="PT35" xmltv_id="NGWILD">NGWILD</channel>
-    <channel update="i" site="yes.co.il" site_id="TV19" xmltv_id="History_white">History_white</channel>
-    <channel update="i" site="yes.co.il" site_id="PT55" xmltv_id="history.jpg">history.jpg</channel>
-    <channel update="i" site="yes.co.il" site_id="PT10" xmltv_id="lifetime">lifetime</channel>
-    <channel update="i" site="yes.co.il" site_id="PT02" xmltv_id="Bollywood">Bollywood</channel>
-    <channel update="i" site="yes.co.il" site_id="PT13" xmltv_id="Daystar_TV">Daystar_TV</channel>
-    <channel update="i" site="yes.co.il" site_id="PT54" xmltv_id="one1">one1</channel>
-    <channel update="i" site="yes.co.il" site_id="TV29" xmltv_id="eurosport.jpg">eurosport.jpg</channel>
-    <channel update="i" site="yes.co.il" site_id="PT53" xmltv_id="sport1HD">sport1HD</channel>
-    <channel update="i" site="yes.co.il" site_id="PT22" xmltv_id="sport1">sport1</channel>
-    <channel update="i" site="yes.co.il" site_id="PT23" xmltv_id="ספורט2HD.PNG">ספורט2HD.PNG</channel>
-    <channel update="i" site="yes.co.il" site_id="TVR5" xmltv_id="5_Sport">5_Sport</channel>
-    <channel update="i" site="yes.co.il" site_id="TV16" xmltv_id="5_Plus">5_Plus</channel>
-    <channel update="i" site="yes.co.il" site_id="MU03" xmltv_id="Gold.jpg">Gold.jpg</channel>
-    <channel update="i" site="yes.co.il" site_id="PT62" xmltv_id="liveHD.jpg">liveHD.jpg</channel>
-    <channel update="i" site="yes.co.il" site_id="PT26" xmltv_id="5_SportHD">5_SportHD</channel>
-    <channel update="i" site="yes.co.il" site_id="TV30" xmltv_id="fox.jpg">fox.jpg</channel>
-    <channel update="i" site="yes.co.il" site_id="TV32" xmltv_id="Extreme_Sports_white">Extreme_Sports_white</channel>
-    <channel update="i" site="yes.co.il" site_id="PT12" xmltv_id="Ego_White">Ego_White</channel>
-    <channel update="i" site="yes.co.il" site_id="PT29" xmltv_id="egoTotal">egoTotal</channel>
-    <channel update="i" site="yes.co.il" site_id="TV87" xmltv_id="CBS_reality">CBS_reality</channel>
-    <channel update="i" site="yes.co.il" site_id="PT33" xmltv_id="kabala">kabala</channel>
-    <channel update="i" site="yes.co.il" site_id="TV34" xmltv_id="FTV_white">FTV_white</channel>
-    <channel update="i" site="yes.co.il" site_id="TV40" xmltv_id="Fox_news41">Fox_news41</channel>
-    <channel update="i" site="yes.co.il" site_id="PT31" xmltv_id="LBC44">LBC44</channel>
-    <channel update="i" site="yes.co.il" site_id="TV37" xmltv_id="v">v</channel>
-    <channel update="i" site="yes.co.il" site_id="TV51" xmltv_id="VH1_Classic_white">VH1_Classic_white</channel>
-    <channel update="i" site="yes.co.il" site_id="TV35" xmltv_id="MTV_Music_white">MTV_Music_white</channel>
-    <channel update="i" site="yes.co.il" site_id="PT50" xmltv_id="mtvcolor.jpg">mtvcolor.jpg</channel>
-    <channel update="i" site="yes.co.il" site_id="TV86" xmltv_id="mtvmusic.jpg">mtvmusic.jpg</channel>
-    <channel update="i" site="yes.co.il" site_id="PT48" xmltv_id="JimJam">JimJam</channel>
-    <channel update="i" site="yes.co.il" site_id="TA02" xmltv_id="baby">baby</channel>
-    <channel update="i" site="yes.co.il" site_id="TV24" xmltv_id="Hop">Hop</channel>
-    <channel update="i" site="yes.co.il" site_id="PT46" xmltv_id="slogen4">slogen4</channel>
-    <channel update="i" site="yes.co.il" site_id="PT59" xmltv_id="Disney_junior04">Disney_junior04</channel>
-    <channel update="i" site="yes.co.il" site_id="PT69" xmltv_id="nick.jr">nick.jr</channel>
-    <channel update="i" site="yes.co.il" site_id="PT85" xmltv_id="Zoomblue">Zoomblue</channel>
-    <channel update="i" site="yes.co.il" site_id="PT43" xmltv_id="Disney_white">Disney_white</channel>
-    <channel update="i" site="yes.co.il" site_id="TVR6" xmltv_id="yeladim">yeladim</channel>
-    <channel update="i" site="yes.co.il" site_id="NK01" xmltv_id="nick">nick</channel>
-    <channel update="i" site="yes.co.il" site_id="PT24" xmltv_id="logi.jpg">logi.jpg</channel>
-    <channel update="i" site="yes.co.il" site_id="TA05" xmltv_id="junior_new">junior_new</channel>
-    <channel update="i" site="yes.co.il" site_id="PT89" xmltv_id="mair">mair</channel>
-    <channel update="i" site="yes.co.il" site_id="PT30" xmltv_id="VH1_Classic_white62">VH1_Classic_white62</channel>
-    <channel update="i" site="yes.co.il" site_id="TV43" xmltv_id="98kehilati">98kehilati</channel>
-    <channel update="i" site="yes.co.il" site_id="TV89" xmltv_id="cneste">cneste</channel>
-    <channel update="i" site="yes.co.il" site_id="I011" xmltv_id="store">store</channel>
-    <channel update="i" site="yes.co.il" site_id="I002" xmltv_id="news">news</channel>
+    <channel update="i" site="yes.co.il" site_id="CH90" xmltv_id="Mediterranean Plus">Mediterranean Plus</channel>
+    <channel update="i" site="yes.co.il" site_id="CH32" xmltv_id="Makan">Makan</channel>
+    <channel update="i" site="yes.co.il" site_id="CH89" xmltv_id="Viva Premium">Viva Premium</channel>
+    <channel update="i" site="yes.co.il" site_id="TV20" xmltv_id="Viva Telenovelas (Viva)">Viva Telenovelas (Viva)</channel>
+    <channel update="i" site="yes.co.il" site_id="PT60" xmltv_id="Viva Istanbul (Viva Plus)">Viva Istanbul (Viva Plus)</channel>
+    <channel update="i" site="yes.co.il" site_id="CH75" xmltv_id="Viva Vintage">Viva Vintage</channel>
+    <channel update="i" site="yes.co.il" site_id="CN04" xmltv_id="Mediterranean Channel 2">Mediterranean Channel 2</channel>
+    <channel update="i" site="yes.co.il" site_id="CN30" xmltv_id="Spanish Drama 1">Spanish Drama 1</channel>
+    <channel update="i" site="yes.co.il" site_id="CN31" xmltv_id="Spanish Drama 2">Spanish Drama 2</channel>
+    <channel update="i" site="yes.co.il" site_id="PT25" xmltv_id="National G. HD IP Only">National G. HD IP Only</channel>
+    <channel update="i" site="yes.co.il" site_id="PT94" xmltv_id="Discovery IP HD SSR SD">Discovery IP HD SSR SD</channel>
+    <channel update="i" site="yes.co.il" site_id="CH71" xmltv_id="National G. Wild HD">National G. Wild HD</channel>
+    <channel update="i" site="yes.co.il" site_id="TV19" xmltv_id="History SD">History SD</channel>
+    <channel update="i" site="yes.co.il" site_id="PT55" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="yes.co.il" site_id="CN33" xmltv_id="World Action 1">World Action 1</channel>
+    <channel update="i" site="yes.co.il" site_id="TV61" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
+    <channel update="i" site="yes.co.il" site_id="PT13" xmltv_id="DAYSTAR">DAYSTAR</channel>
+    <channel update="i" site="yes.co.il" site_id="CH58" xmltv_id="ONE2 HD">ONE2 HD</channel>
+    <channel update="i" site="yes.co.il" site_id="TR01" xmltv_id="ONE HD">ONE HD</channel>
+    <channel update="i" site="yes.co.il" site_id="PT53" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
+    <channel update="i" site="yes.co.il" site_id="PT98" xmltv_id="Sport 2 HD">Sport 2 HD</channel>
+    <channel update="i" site="yes.co.il" site_id="CH09" xmltv_id="Sport 3 HD">Sport 3 HD</channel>
+    <channel update="i" site="yes.co.il" site_id="CH11" xmltv_id="Sport 4 HD">Sport 4 HD</channel>
+    <channel update="i" site="yes.co.il" site_id="PT26" xmltv_id="Sport 5 HD (55)">Sport 5 HD (55)</channel>
+    <channel update="i" site="yes.co.il" site_id="CH54" xmltv_id="Sport 5+ HD (56)">Sport 5+ HD (56)</channel>
+    <channel update="i" site="yes.co.il" site_id="MU03" xmltv_id="Sport 5 Gold (57)">Sport 5 Gold (57)</channel>
+    <channel update="i" site="yes.co.il" site_id="PT62" xmltv_id="Sport 5 Live HD (58)">Sport 5 Live HD (58)</channel>
+    <channel update="i" site="yes.co.il" site_id="CH56" xmltv_id="Sport 5 Stars HD (59)">Sport 5 Stars HD (59)</channel>
+    <channel update="i" site="yes.co.il" site_id="CN49" xmltv_id="Sport 5 MAX">Sport 5 MAX</channel>
+    <channel update="i" site="yes.co.il" site_id="PT39" xmltv_id="EUROSPORT IP HD SSR SD">EUROSPORT IP HD SSR SD</channel>
+    <channel update="i" site="yes.co.il" site_id="CH33" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="yes.co.il" site_id="CN61" xmltv_id="Motorvision">Motorvision</channel>
+    <channel update="i" site="yes.co.il" site_id="CN48" xmltv_id="Sport 6 HD">Sport 6 HD</channel>
+    <channel update="i" site="yes.co.il" site_id="PT41" xmltv_id="Home and Family">Home and Family</channel>
+    <channel update="i" site="yes.co.il" site_id="CH61" xmltv_id="Design Channel (DIY)">Design Channel (DIY)</channel>
+    <channel update="i" site="yes.co.il" site_id="CH97" xmltv_id="Vacation Channel">Vacation Channel</channel>
+    <channel update="i" site="yes.co.il" site_id="CN59" xmltv_id="Love Channel">Love Channel</channel>
+    <channel update="i" site="yes.co.il" site_id="CH62" xmltv_id="Style Channel (Fashion IL)">Style Channel (Fashion IL)</channel>
+    <channel update="i" site="yes.co.il" site_id="CH72" xmltv_id="Reality Channel (Reshet)">Reality Channel (Reshet)</channel>
+    <channel update="i" site="yes.co.il" site_id="CH81" xmltv_id="TV Game Shows">TV Game Shows</channel>
+    <channel update="i" site="yes.co.il" site_id="PT28" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="yes.co.il" site_id="PT20" xmltv_id="Food Channel">Food Channel</channel>
+    <channel update="i" site="yes.co.il" site_id="TV09" xmltv_id="LifeStyle">LifeStyle</channel>
+    <channel update="i" site="yes.co.il" site_id="CN58" xmltv_id="Daily Drama">Daily Drama</channel>
+    <channel update="i" site="yes.co.il" site_id="CN56" xmltv_id="Beautyz">Beautyz</channel>
+    <channel update="i" site="yes.co.il" site_id="YSA4" xmltv_id="yes Movies Kids">yes Movies Kids</channel>
+    <channel update="i" site="yes.co.il" site_id="CN24" xmltv_id="Yoyo">Yoyo</channel>
+    <channel update="i" site="yes.co.il" site_id="CN09" xmltv_id="Childhood songs">Childhood songs</channel>
+    <channel update="i" site="yes.co.il" site_id="CH57" xmltv_id="Kan Educational">Kan Educational</channel>
+    <channel update="i" site="yes.co.il" site_id="TA02" xmltv_id="Baby">Baby</channel>
+    <channel update="i" site="yes.co.il" site_id="TV24" xmltv_id="HOP">HOP</channel>
+    <channel update="i" site="yes.co.il" site_id="PT46" xmltv_id="HOP! Childhood">HOP! Childhood</channel>
+    <channel update="i" site="yes.co.il" site_id="PT59" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="yes.co.il" site_id="PT69" xmltv_id="NICK Junior">NICK Junior</channel>
+    <channel update="i" site="yes.co.il" site_id="CH19" xmltv_id="Kids Stars Channel">Kids Stars Channel</channel>
+    <channel update="i" site="yes.co.il" site_id="TVR6" xmltv_id="Children channel (RGE)">Children channel (RGE)</channel>
+    <channel update="i" site="yes.co.il" site_id="CH98" xmltv_id="ZOOM TOON">ZOOM TOON</channel>
+    <channel update="i" site="yes.co.il" site_id="PT91" xmltv_id="Disney HD">Disney HD</channel>
+    <channel update="i" site="yes.co.il" site_id="PT85" xmltv_id="ZOOM">ZOOM</channel>
+    <channel update="i" site="yes.co.il" site_id="NK01" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="yes.co.il" site_id="CH13" xmltv_id="WiZ">WiZ</channel>
+    <channel update="i" site="yes.co.il" site_id="TA05" xmltv_id="Junior">Junior</channel>
+    <channel update="i" site="yes.co.il" site_id="CH18" xmltv_id="TeenNick">TeenNick</channel>
+    <channel update="i" site="yes.co.il" site_id="CN36" xmltv_id="Luli">Luli</channel>
+    <channel update="i" site="yes.co.il" site_id="CN08" xmltv_id="Childhood">Childhood</channel>
+    <channel update="i" site="yes.co.il" site_id="PT30" xmltv_id="Hidabroot">Hidabroot</channel>
+    <channel update="i" site="yes.co.il" site_id="TV43" xmltv_id="Kehilaty (98)">Kehilaty (98)</channel>
+    <channel update="i" site="yes.co.il" site_id="TV89" xmltv_id="Knesset">Knesset</channel>
     <channel update="i" site="yes.co.il" site_id="TV12" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="yes.co.il" site_id="TV42" xmltv_id="SkyNews">SkyNews</channel>
-    <channel update="i" site="yes.co.il" site_id="PT18" xmltv_id="France24">France24</channel>
-    <channel update="i" site="yes.co.il" site_id="TV13" xmltv_id="Fox_news">Fox_news</channel>
+    <channel update="i" site="yes.co.il" site_id="TV42" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="yes.co.il" site_id="PT18" xmltv_id="FRANCE 24">FRANCE 24</channel>
+    <channel update="i" site="yes.co.il" site_id="TV13" xmltv_id="Fox News">Fox News</channel>
     <channel update="i" site="yes.co.il" site_id="TV59" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel update="i" site="yes.co.il" site_id="PT17" xmltv_id="ALJAZEERA_ENGLISH">ALJAZEERA_ENGLISH</channel>
-    <channel update="i" site="yes.co.il" site_id="TV02" xmltv_id="Fox_sport40">Fox_sport40</channel>
-    <channel update="i" site="yes.co.il" site_id="PT06" xmltv_id="CCTV_white">CCTV_white</channel>
-    <channel update="i" site="yes.co.il" site_id="PT95" xmltv_id="Angel">Angel</channel>
-    <channel update="i" site="yes.co.il" site_id="PT44" xmltv_id="NHKWorld">NHKWorld</channel>
+    <channel update="i" site="yes.co.il" site_id="CN05" xmltv_id="France 24 fr">France 24 fr</channel>
+    <channel update="i" site="yes.co.il" site_id="PT06" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="yes.co.il" site_id="CN37" xmltv_id="Mediterranean movies 2">Mediterranean movies 2</channel>
+    <channel update="i" site="yes.co.il" site_id="CN34" xmltv_id="World Action 2">World Action 2</channel>
+    <channel update="i" site="yes.co.il" site_id="CN35" xmltv_id="Mediterranean movies 1">Mediterranean movies 1</channel>
+    <channel update="i" site="yes.co.il" site_id="CN19" xmltv_id="Indian Drama 1">Indian Drama 1</channel>
+    <channel update="i" site="yes.co.il" site_id="CN20" xmltv_id="Indian Drama 2">Indian Drama 2</channel>
+    <channel update="i" site="yes.co.il" site_id="PT02" xmltv_id="Bollywood Movies">Bollywood Movies</channel>
+    <channel update="i" site="yes.co.il" site_id="CH68" xmltv_id="Bollywood Series">Bollywood Series</channel>
+    <channel update="i" site="yes.co.il" site_id="PT14" xmltv_id="Health Channel">Health Channel</channel>
+    <channel update="i" site="yes.co.il" site_id="PT12" xmltv_id="EGO">EGO</channel>
+    <channel update="i" site="yes.co.il" site_id="CN13" xmltv_id="i24 English">i24 English</channel>
+    <channel update="i" site="yes.co.il" site_id="CN14" xmltv_id="i24 Arabic">i24 Arabic</channel>
     <channel update="i" site="yes.co.il" site_id="TV44" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="yes.co.il" site_id="TV46" xmltv_id="3sat">3sat</channel>
-    <channel update="i" site="yes.co.il" site_id="TV45" xmltv_id="Sat.1white">Sat.1white</channel>
-    <channel update="i" site="yes.co.il" site_id="TV79" xmltv_id="gtv">gtv</channel>
-    <channel update="i" site="yes.co.il" site_id="TV49" xmltv_id="tve">tve</channel>
-    <channel update="i" site="yes.co.il" site_id="PT11" xmltv_id="tvri">tvri</channel>
-    <channel update="i" site="yes.co.il" site_id="TV57" xmltv_id="PRO">PRO</channel>
-    <channel update="i" site="yes.co.il" site_id="TV98" xmltv_id="zeetv">zeetv</channel>
-    <channel update="i" site="yes.co.il" site_id="PT64" xmltv_id="mediaset_italia_blue">mediaset_italia_blue</channel>
-    <channel update="i" site="yes.co.il" site_id="TV77" xmltv_id="rtm">rtm</channel>
-    <channel update="i" site="yes.co.il" site_id="TV47" xmltv_id="arte.jpg">arte.jpg</channel>
-    <channel update="i" site="yes.co.il" site_id="TV48" xmltv_id="TV5MONDE">TV5MONDE</channel>
-    <channel update="i" site="yes.co.il" site_id="TV94" xmltv_id="france2">france2</channel>
-    <channel update="i" site="yes.co.il" site_id="TV56" xmltv_id="eurostar">eurostar</channel>
-    <channel update="i" site="yes.co.il" site_id="PT19" xmltv_id="ethiopian">ethiopian</channel>
-    <channel update="i" site="yes.co.il" site_id="TV70" xmltv_id="mbc">mbc</channel>
-    <channel update="i" site="yes.co.il" site_id="TV71" xmltv_id="LBC">LBC</channel>
-    <channel update="i" site="yes.co.il" site_id="TV73" xmltv_id="ROTNA">ROTNA</channel>
-    <channel update="i" site="yes.co.il" site_id="PT42" xmltv_id="rtarbic_black.jpg">rtarbic_black.jpg</channel>
-    <channel update="i" site="yes.co.il" site_id="TV75" xmltv_id="Abu_dabi">Abu_dabi</channel>
-    <channel update="i" site="yes.co.il" site_id="TV76" xmltv_id="ALJAZEERA_ENGLISH">ALJAZEERA_ENGLISH</channel>
-    <channel update="i" site="yes.co.il" site_id="TV81" xmltv_id="RussianChannel1">RussianChannel1</channel>
-    <channel update="i" site="yes.co.il" site_id="TV82" xmltv_id="Planeta_RTR">Planeta_RTR</channel>
-    <channel update="i" site="yes.co.il" site_id="TV83" xmltv_id="RTVIwhite">RTVIwhite</channel>
-    <channel update="i" site="yes.co.il" site_id="TV85" xmltv_id="NasheKino">NasheKino</channel>
-    <channel update="i" site="yes.co.il" site_id="TV65" xmltv_id="russian_music_box_white">russian_music_box_white</channel>
-    <channel update="i" site="yes.co.il" site_id="PT73" xmltv_id="vremya">vremya</channel>
+    <channel update="i" site="yes.co.il" site_id="CN60" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="yes.co.il" site_id="TV45" xmltv_id="SAT 1">SAT 1</channel>
+    <channel update="i" site="yes.co.il" site_id="TV79" xmltv_id="GTV">GTV</channel>
+    <channel update="i" site="yes.co.il" site_id="CH50" xmltv_id="CGTN DOC">CGTN DOC</channel>
+    <channel update="i" site="yes.co.il" site_id="TV49" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="yes.co.il" site_id="TV02" xmltv_id="METV">METV</channel>
+    <channel update="i" site="yes.co.il" site_id="TV57" xmltv_id="PROTV">PROTV</channel>
+    <channel update="i" site="yes.co.il" site_id="TV98" xmltv_id="ZEETV">ZEETV</channel>
+    <channel update="i" site="yes.co.il" site_id="PT64" xmltv_id="Mediaset">Mediaset</channel>
+    <channel update="i" site="yes.co.il" site_id="CH74" xmltv_id="FRANCE3">FRANCE3</channel>
+    <channel update="i" site="yes.co.il" site_id="TV94" xmltv_id="France 2 (F2)">France 2 (F2)</channel>
+    <channel update="i" site="yes.co.il" site_id="TV47" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="yes.co.il" site_id="PT19" xmltv_id="IETV">IETV</channel>
+    <channel update="i" site="yes.co.il" site_id="PT65" xmltv_id="HALA TV (Ben)">HALA TV (Ben)</channel>
+    <channel update="i" site="yes.co.il" site_id="TV56" xmltv_id="EUROSTAR">EUROSTAR</channel>
+    <channel update="i" site="yes.co.il" site_id="TV77" xmltv_id="RTM">RTM</channel>
+    <channel update="i" site="yes.co.il" site_id="PT48" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="yes.co.il" site_id="TV81" xmltv_id="Channel 1 Rus">Channel 1 Rus</channel>
+    <channel update="i" site="yes.co.il" site_id="TV82" xmltv_id="RTR">RTR</channel>
+    <channel update="i" site="yes.co.il" site_id="CN03" xmltv_id="Dom Kino Premium">Dom Kino Premium</channel>
+    <channel update="i" site="yes.co.il" site_id="TV85" xmltv_id="NASHE KINO">NASHE KINO</channel>
+    <channel update="i" site="yes.co.il" site_id="CH24" xmltv_id="REN TV">REN TV</channel>
+    <channel update="i" site="yes.co.il" site_id="PT73" xmltv_id="VREMYA">VREMYA</channel>
     <channel update="i" site="yes.co.il" site_id="PT74" xmltv_id="TELECAFE">TELECAFE</channel>
-    <channel update="i" site="yes.co.il" site_id="PT75" xmltv_id="rain">rain</channel>
-    <channel update="i" site="yes.co.il" site_id="TV92" xmltv_id="teleclub_white">teleclub_white</channel>
-    <channel update="i" site="yes.co.il" site_id="PT61" xmltv_id="carosel">carosel</channel>
-    <channel update="i" site="yes.co.il" site_id="PT77" xmltv_id="Tiji">Tiji</channel>
-    <channel update="i" site="yes.co.il" site_id="PT90" xmltv_id="TV1000">TV1000</channel>
-    <channel update="i" site="yes.co.il" site_id="TV84" xmltv_id="CBS_drama">CBS_drama</channel>
-    <channel update="i" site="yes.co.il" site_id="TV60" xmltv_id="NTVMIR">NTVMIR</channel>
-    <channel update="i" site="yes.co.il" site_id="PT36" xmltv_id="kino">kino</channel>
-    <channel update="i" site="yes.co.il" site_id="PT51" xmltv_id="ctc">ctc</channel>
-    <channel update="i" site="yes.co.il" site_id="PT45" xmltv_id="TVCI_128">TVCI_128</channel>
-    <channel update="i" site="yes.co.il" site_id="PT15" xmltv_id="1_1International">1_1International</channel>
-    <channel update="i" site="yes.co.il" site_id="I004" xmltv_id="5_Sport">5_Sport</channel>
-    <channel update="i" site="yes.co.il" site_id="PT39" xmltv_id="EuroSport">EuroSport</channel>
-    <channel update="i" site="yes.co.il" site_id="PT49" xmltv_id="Fox_sport">Fox_sport</channel>
-    <channel update="i" site="yes.co.il" site_id="TV64" xmltv_id="Touch">Touch</channel>
-    <channel update="i" site="yes.co.il" site_id="PT05" xmltv_id="hustler">hustler</channel>
-    <channel update="i" site="yes.co.il" site_id="TLD1" xmltv_id="mgm.jpg">mgm.jpg</channel>
+    <channel update="i" site="yes.co.il" site_id="CH76" xmltv_id="Bober">Bober</channel>
+    <channel update="i" site="yes.co.il" site_id="PT51" xmltv_id="CTC">CTC</channel>
+    <channel update="i" site="yes.co.il" site_id="TV60" xmltv_id="NTV MIR">NTV MIR</channel>
+    <channel update="i" site="yes.co.il" site_id="PT45" xmltv_id="TVCI">TVCI</channel>
+    <channel update="i" site="yes.co.il" site_id="PT15" xmltv_id="1+1">1+1</channel>
+    <channel update="i" site="yes.co.il" site_id="CN44" xmltv_id="RAZ 3 (Kvartal)">RAZ 3 (Kvartal)</channel>
+    <channel update="i" site="yes.co.il" site_id="CH29" xmltv_id="SHANSON TV">SHANSON TV</channel>
+    <channel update="i" site="yes.co.il" site_id="PT36" xmltv_id="Dom Kino">Dom Kino</channel>
+    <channel update="i" site="yes.co.il" site_id="CH79" xmltv_id="Music IL">Music IL</channel>
+    <channel update="i" site="yes.co.il" site_id="CN57" xmltv_id="Israeli Stage">Israeli Stage</channel>
+    <channel update="i" site="yes.co.il" site_id="TV37" xmltv_id="MTV 00s (VH1)">MTV 00s (VH1)</channel>
+    <channel update="i" site="yes.co.il" site_id="CN46" xmltv_id="MTV SERIES">MTV SERIES</channel>
+    <channel update="i" site="yes.co.il" site_id="TV35" xmltv_id="MTV (MTV Music)">MTV (MTV Music)</channel>
+    <channel update="i" site="yes.co.il" site_id="CH43" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="yes.co.il" site_id="CH91" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel update="i" site="yes.co.il" site_id="CH41" xmltv_id="Classica HD">Classica HD</channel>
+    <channel update="i" site="yes.co.il" site_id="TV40" xmltv_id="MEZZO">MEZZO</channel>
+    <channel update="i" site="yes.co.il" site_id="CN21" xmltv_id="MEZZO Live">MEZZO Live</channel>
+    <channel update="i" site="yes.co.il" site_id="CN23" xmltv_id="Greek music (MAD World)">Greek music (MAD World)</channel>
+    <channel update="i" site="yes.co.il" site_id="CN38" xmltv_id="Foody">Foody</channel>
+    <channel update="i" site="yes.co.il" site_id="TV65" xmltv_id="Music Box Muzon (Rus MusicBox)">Music Box Muzon (Rus MusicBox)</channel>
+    <channel update="i" site="yes.co.il" site_id="CH27" xmltv_id="IDXTRA">IDXTRA</channel>
+    <channel update="i" site="yes.co.il" site_id="PT61" xmltv_id="Carousel">Carousel</channel>
+    <channel update="i" site="yes.co.il" site_id="CN25" xmltv_id="DOC">DOC</channel>
+    <channel update="i" site="yes.co.il" site_id="CN27" xmltv_id="Pop up X">Pop up X</channel>
+    <channel update="i" site="yes.co.il" site_id="PT83" xmltv_id="JimJam RUS">JimJam RUS</channel>
+    <channel update="i" site="yes.co.il" site_id="CH84" xmltv_id="Kan HD SUB">Kan HD SUB</channel>
+    <channel update="i" site="yes.co.il" site_id="CH82" xmltv_id="Keshet HD SUB">Keshet HD SUB</channel>
+    <channel update="i" site="yes.co.il" site_id="CH83" xmltv_id="Reshet HD SUB">Reshet HD SUB</channel>
+    <channel update="i" site="yes.co.il" site_id="CHN3" xmltv_id="ONE EDGE">ONE EDGE</channel>
+    <channel update="i" site="yes.co.il" site_id="CHN2" xmltv_id="ONE DOCO">ONE DOCO</channel>
+    <channel update="i" site="yes.co.il" site_id="CN02" xmltv_id="Kan HD LL">Kan HD LL</channel>
+    <channel update="i" site="yes.co.il" site_id="CH55" xmltv_id="Sport 5 4K">Sport 5 4K</channel>
+    <channel update="i" site="yes.co.il" site_id="I061" xmltv_id="iTV Internal Channel 888">iTV Internal Channel 888</channel>
   </channels>
 </site>
