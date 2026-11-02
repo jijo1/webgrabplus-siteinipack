@@ -1,310 +1,395 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.25 -- Jan van Straaten" site="virginmedia.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.5.0.3 -- Jan van Straaten" site="virginmedia.com">
   <channels>
-    <channel update="i" site="virginmedia.com" site_id="bbc-one##9" xmltv_id="BBC ONE">BBC ONE</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc-two##9" xmltv_id="BBC TWO">BBC TWO</channel>
-    <channel update="i" site="virginmedia.com" site_id="itv##9" xmltv_id="ITV">ITV</channel>
-    <channel update="i" site="virginmedia.com" site_id="channel-4##9" xmltv_id="Channel 4">Channel 4</channel>
-    <channel update="i" site="virginmedia.com" site_id="channel-5##9" xmltv_id="Channel 5">Channel 5</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc-four##9" xmltv_id="BBC FOUR">BBC FOUR</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc-one-hd##9" xmltv_id="BBC ONE HD">BBC ONE HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky1-hd##9" xmltv_id="Sky1 HD">Sky1 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky1##9" xmltv_id="Sky1">Sky1</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-living-hd##9" xmltv_id="Sky Living HD">Sky Living HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-living##9" xmltv_id="Sky Living">Sky Living</channel>
-    <channel update="i" site="virginmedia.com" site_id="itv-hd##9" xmltv_id="ITV HD">ITV HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="itv-plus1##9" xmltv_id="ITV +1">ITV +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="itv2##9" xmltv_id="ITV2">ITV2</channel>
-    <channel update="i" site="virginmedia.com" site_id="itv2-plus1##9" xmltv_id="ITV2 +1">ITV2 +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="itv3##9" xmltv_id="ITV3">ITV3</channel>
-    <channel update="i" site="virginmedia.com" site_id="itv4##9" xmltv_id="ITV4">ITV4</channel>
-    <channel update="i" site="virginmedia.com" site_id="itvbe##9" xmltv_id="ITVBe">ITVBe</channel>
-    <channel update="i" site="virginmedia.com" site_id="itvbe-plus1##9" xmltv_id="ITVBe +1">ITVBe +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky2##9" xmltv_id="Sky2">Sky2</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-arts##9" xmltv_id="Sky Arts">Sky Arts</channel>
-    <channel update="i" site="virginmedia.com" site_id="pick-tv##9" xmltv_id="Pick TV">Pick TV</channel>
-    <channel update="i" site="virginmedia.com" site_id="watch##9" xmltv_id="W">W</channel>
-    <channel update="i" site="virginmedia.com" site_id="watch-plus1##9" xmltv_id="W +1">W +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="gold##9" xmltv_id="GOLD">GOLD</channel>
-    <channel update="i" site="virginmedia.com" site_id="gold-plus1##9" xmltv_id="GOLD +1">GOLD +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="dave##9" xmltv_id="Dave">Dave</channel>
-    <channel update="i" site="virginmedia.com" site_id="dave-ja-vu##9" xmltv_id="Dave ja vu">Dave ja vu</channel>
-    <channel update="i" site="virginmedia.com" site_id="alibi##9" xmltv_id="Alibi">Alibi</channel>
-    <channel update="i" site="virginmedia.com" site_id="alibi-plus1##9" xmltv_id="Alibi +1">Alibi +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="comedy-central##9" xmltv_id="Comedy Central">Comedy Central</channel>
-    <channel update="i" site="virginmedia.com" site_id="comedy-central-plus1##9" xmltv_id="Comedy Central +1">Comedy Central +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="mtv##9" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="virginmedia.com" site_id="syfy##9" xmltv_id="SyFy">SyFy</channel>
-    <channel update="i" site="virginmedia.com" site_id="syfy-plus1##9" xmltv_id="Syfy +1">Syfy +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="universal##9" xmltv_id="Universal">Universal</channel>
-    <channel update="i" site="virginmedia.com" site_id="universal-plus1##9" xmltv_id="Universal +1">Universal +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="challenge##9" xmltv_id="Challenge">Challenge</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-living-plus1##9" xmltv_id="Sky Living +1">Sky Living +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="channel-4-hd##9" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="channel-4-plus1##9" xmltv_id="Channel 4 +1">Channel 4 +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="e4##9" xmltv_id="E4">E4</channel>
-    <channel update="i" site="virginmedia.com" site_id="e4-hd##9" xmltv_id="E4 HD">E4 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="e4-plus1##9" xmltv_id="E4 +1">E4 +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="more-4##9" xmltv_id="More 4">More 4</channel>
-    <channel update="i" site="virginmedia.com" site_id="cbs-reality##9" xmltv_id="CBS Reality">CBS Reality</channel>
-    <channel update="i" site="virginmedia.com" site_id="horror##9" xmltv_id="Horror">Horror</channel>
-    <channel update="i" site="virginmedia.com" site_id="channel-5-hd##9" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="5star##9" xmltv_id="5STAR">5STAR</channel>
-    <channel update="i" site="virginmedia.com" site_id="channel5-plus24##9" xmltv_id=" Channel 5+24"> Channel 5+24</channel>
-    <channel update="i" site="virginmedia.com" site_id="5-usa##9" xmltv_id="5 USA">5 USA</channel>
-    <channel update="i" site="virginmedia.com" site_id="5-usa-plus1##9" xmltv_id="5 USA +1">5 USA +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="channel-5-plus-1##9" xmltv_id="Channel 5 +1">Channel 5 +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="e-entertainment##9" xmltv_id="E! Entertainment">E! Entertainment</channel>
-    <channel update="i" site="virginmedia.com" site_id="fox##9" xmltv_id="Fox">Fox</channel>
-    <channel update="i" site="virginmedia.com" site_id="fox-plus##9" xmltv_id="Fox +">Fox +</channel>
-    <channel update="i" site="virginmedia.com" site_id="real-lives##9" xmltv_id="Real Lives">Real Lives</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc-alba##9" xmltv_id="BBC Alba">BBC Alba</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc-two-hd##9" xmltv_id="BBC 2 HD">BBC 2 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc-four-hd##9" xmltv_id="BBC FOUR HD">BBC FOUR HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="syfy-hd##9" xmltv_id="Syfy HD">Syfy HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="s4c##9" xmltv_id="S4C">S4C</channel>
-    <channel update="i" site="virginmedia.com" site_id="tlc##9" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="virginmedia.com" site_id="tlc-hd##9" xmltv_id="TLC HD">TLC HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="tlc-plus-1##9" xmltv_id="TLC +1">TLC +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="dmax##9" xmltv_id="DMAX">DMAX</channel>
-    <channel update="i" site="virginmedia.com" site_id="dmax-plus1##9" xmltv_id="DMAX +1">DMAX +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="quest##9" xmltv_id="Quest">Quest</channel>
-    <channel update="i" site="virginmedia.com" site_id="quest-plus1##9" xmltv_id="Quest +1">Quest +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="itv3-plus1##9" xmltv_id="ITV3 +1">ITV3 +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="itv4-plus1##9" xmltv_id="ITV4 +1">ITV4 +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="itv2-hd##9" xmltv_id="ITV2 HD">ITV2 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="itv3-hd##9" xmltv_id="ITV3 HD">ITV3 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="itv4-hd##9" xmltv_id="ITV4 HD">ITV4 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="itvbe-hd##9" xmltv_id="ITVBe HD">ITVBe HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="challenge-plus1##9" xmltv_id="Challenge +1">Challenge +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="comedy-central-hd##9" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="comedyx##9" xmltv_id="ComedyX">ComedyX</channel>
-    <channel update="i" site="virginmedia.com" site_id="mtv-hd##9" xmltv_id="MTV HD">MTV HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="bet##9" xmltv_id="BET">BET</channel>
-    <channel update="i" site="virginmedia.com" site_id="true-ent##9" xmltv_id="True Ent">True Ent</channel>
-    <channel update="i" site="virginmedia.com" site_id="drama##9" xmltv_id="Drama">Drama</channel>
-    <channel update="i" site="virginmedia.com" site_id="watch-hd##9" xmltv_id="W HD">W HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="cbs-action##9" xmltv_id="CBS Action">CBS Action</channel>
-    <channel update="i" site="virginmedia.com" site_id="sony-tv##9" xmltv_id="SONY Channel">SONY Channel</channel>
-    <channel update="i" site="virginmedia.com" site_id="dave-hd##9" xmltv_id="Dave HD">Dave HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="4seven##9" xmltv_id="4Seven">4Seven</channel>
-    <channel update="i" site="virginmedia.com" site_id="more4-plus1##9" xmltv_id="More4 +1">More4 +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="cbs-drama##9" xmltv_id="CBS Drama">CBS Drama</channel>
-    <channel update="i" site="virginmedia.com" site_id="youtube##9" xmltv_id="YouTube">YouTube</channel>
-    <channel update="i" site="virginmedia.com" site_id="fox-hd##9" xmltv_id="Fox HD">Fox HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="alibi-hd##9" xmltv_id="Alibi HD">Alibi HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="cbs-reality-plus1##9" xmltv_id="CBS Reality +1">CBS Reality +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="horror-channel-plus1##9" xmltv_id="Horror Channel +1">Horror Channel +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="more-4-hd##9" xmltv_id="More 4 HD">More 4 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-arts-hd##9" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="real-lives-plus1##9" xmltv_id="Real Lives+1">Real Lives+1</channel>
-    <channel update="i" site="virginmedia.com" site_id="lifetime##9" xmltv_id="Lifetime">Lifetime</channel>
-    <channel update="i" site="virginmedia.com" site_id="lifetime-hd##9" xmltv_id="Lifetime HD">Lifetime HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="yesterday##9" xmltv_id="YeSTERDAY">YeSTERDAY</channel>
-    <channel update="i" site="virginmedia.com" site_id="yesterday-plus1##9" xmltv_id="YeSTERDAY +1">YeSTERDAY +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="eden##9" xmltv_id="Eden">Eden</channel>
-    <channel update="i" site="virginmedia.com" site_id="eden-plus1##9" xmltv_id="Eden +1">Eden +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="eden-hd##9" xmltv_id="Eden HD">Eden HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="discovery-channel##9" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="virginmedia.com" site_id="discovery-hd##9" xmltv_id="Discovery HD">Discovery HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="discovery-chan-plus1##9" xmltv_id="Discovery Chan +1">Discovery Chan +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="investigation-discovery##9" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
-    <channel update="i" site="virginmedia.com" site_id="id-plus-1##9" xmltv_id="ID +1">ID +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="animal-planet##9" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="virginmedia.com" site_id="animal-planet-hd##9" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="animal-planet-plus1##9" xmltv_id="Animal Planet +1">Animal Planet +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="discovery-science##9" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="virginmedia.com" site_id="discovery-science-plus1##9" xmltv_id="Discovery Science +1">Discovery Science +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="discovery-turbo##9" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
-    <channel update="i" site="virginmedia.com" site_id="discovery-history##9" xmltv_id="Discovery History">Discovery History</channel>
-    <channel update="i" site="virginmedia.com" site_id="discovery-history-plus1##9" xmltv_id="Discovery History +1">Discovery History +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="nat-geo-wild##9" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
-    <channel update="i" site="virginmedia.com" site_id="nat-geo-wild-hd##9" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="national-geographic##9" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="virginmedia.com" site_id="national-geographicplus1##9" xmltv_id="National Geographic+1">National Geographic+1</channel>
-    <channel update="i" site="virginmedia.com" site_id="nat-geo-hd##9" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="the-community-channel##9" xmltv_id="The Community Channel">The Community Channel</channel>
-    <channel update="i" site="virginmedia.com" site_id="history##9" xmltv_id="HISTORY">HISTORY</channel>
-    <channel update="i" site="virginmedia.com" site_id="history-plus-1##9" xmltv_id="HISTORY +1">HISTORY +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="h2##9" xmltv_id="H2">H2</channel>
-    <channel update="i" site="virginmedia.com" site_id="h2-hd##9" xmltv_id="H2 HD">H2 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="ci##9" xmltv_id="Crime+Inv">Crime+Inv</channel>
-    <channel update="i" site="virginmedia.com" site_id="pbs##9" xmltv_id="PBS">PBS</channel>
-    <channel update="i" site="virginmedia.com" site_id="forces-tv##9" xmltv_id="Forces TV">Forces TV</channel>
-    <channel update="i" site="virginmedia.com" site_id="good-food##9" xmltv_id="Good Food">Good Food</channel>
-    <channel update="i" site="virginmedia.com" site_id="good-food-plus1##9" xmltv_id="Good Food +1">Good Food +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="good-food-hd##9" xmltv_id="Good Food HD">Good Food HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="home##9" xmltv_id="Home">Home</channel>
-    <channel update="i" site="virginmedia.com" site_id="home-plus1##9" xmltv_id="Home +1">Home +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="really##9" xmltv_id="Really">Really</channel>
-    <channel update="i" site="virginmedia.com" site_id="home-and-health##9" xmltv_id="Home &amp; Health">Home &amp; Health</channel>
-    <channel update="i" site="virginmedia.com" site_id="discovery-home-health-plus1##9" xmltv_id="Home &amp; Health +1">Home &amp; Health +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="discovery-shed##9" xmltv_id="Discovery Shed">Discovery Shed</channel>
-    <channel update="i" site="virginmedia.com" site_id="god-channel##9" xmltv_id="God Channel">God Channel</channel>
-    <channel update="i" site="virginmedia.com" site_id="ginx##9" xmltv_id="GINX">GINX</channel>
-    <channel update="i" site="virginmedia.com" site_id="food-network##9" xmltv_id="Food Network">Food Network</channel>
-    <channel update="i" site="virginmedia.com" site_id="travel-channel##9" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel update="i" site="virginmedia.com" site_id="vtv-music-on-demand##9" xmltv_id="VM Music">VM Music</channel>
-    <channel update="i" site="virginmedia.com" site_id="mtv-music##9" xmltv_id="MTV Music">MTV Music</channel>
-    <channel update="i" site="virginmedia.com" site_id="mtv-live-hd##9" xmltv_id="MTV Live HD">MTV Live HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="mtv-hits##9" xmltv_id="MTV HITS">MTV HITS</channel>
-    <channel update="i" site="virginmedia.com" site_id="mtv-base##9" xmltv_id="MTV BASE">MTV BASE</channel>
-    <channel update="i" site="virginmedia.com" site_id="mtv-dance##9" xmltv_id="MTV DANCE">MTV DANCE</channel>
-    <channel update="i" site="virginmedia.com" site_id="mtv-rocks##9" xmltv_id="MTV Rocks">MTV Rocks</channel>
-    <channel update="i" site="virginmedia.com" site_id="vh1##9" xmltv_id="VH1">VH1</channel>
-    <channel update="i" site="virginmedia.com" site_id="viva##9" xmltv_id="VIVA">VIVA</channel>
-    <channel update="i" site="virginmedia.com" site_id="4music##9" xmltv_id="4Music">4Music</channel>
-    <channel update="i" site="virginmedia.com" site_id="the-box##9" xmltv_id="The Box">The Box</channel>
-    <channel update="i" site="virginmedia.com" site_id="kiss##9" xmltv_id="Kiss">Kiss</channel>
-    <channel update="i" site="virginmedia.com" site_id="box-hits##9" xmltv_id="Box Hits">Box Hits</channel>
-    <channel update="i" site="virginmedia.com" site_id="box-upfront##9" xmltv_id="Box Upfront">Box Upfront</channel>
-    <channel update="i" site="virginmedia.com" site_id="magic##9" xmltv_id="Magic">Magic</channel>
-    <channel update="i" site="virginmedia.com" site_id="kerrang##9" xmltv_id="Kerrang">Kerrang</channel>
-    <channel update="i" site="virginmedia.com" site_id="vintage-tv##9" xmltv_id="Vintage TV">Vintage TV</channel>
-    <channel update="i" site="virginmedia.com" site_id="filmflex-previews##9" xmltv_id="Filmflex Previews">Filmflex Previews</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-premiere##9" xmltv_id="Sky Premiere">Sky Premiere</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-premiere-1hr##9" xmltv_id="Sky Premiere 1hr">Sky Premiere 1hr</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-showcase##9" xmltv_id="Sky Showcase">Sky Showcase</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-greats##9" xmltv_id="Sky Superhero">Sky Superhero</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-disney##9" xmltv_id="Sky Disney">Sky Disney</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-family##9" xmltv_id="Sky Family">Sky Family</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-action##9" xmltv_id="Sky Action">Sky Action</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-comedy##9" xmltv_id="Sky Comedy">Sky Comedy</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-thriller##9" xmltv_id="Sky Thriller">Sky Thriller</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-drama-romance##9" xmltv_id="Sky Drama &amp; Romance">Sky Drama &amp; Romance</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-science-fiction##9" xmltv_id="Sky Sci-Fi &amp; Horror">Sky Sci-Fi &amp; Horror</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-select##9" xmltv_id="Sky Select">Sky Select</channel>
-    <channel update="i" site="virginmedia.com" site_id="turner-classic-movies##9" xmltv_id="Turner Classic Movies">Turner Classic Movies</channel>
-    <channel update="i" site="virginmedia.com" site_id="tcm-hd##9" xmltv_id="TCM HD">TCM HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="tcm-plus1##9" xmltv_id="TCM +1">TCM +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="movies-24##9" xmltv_id="Movies 24">Movies 24</channel>
-    <channel update="i" site="virginmedia.com" site_id="movies-24plus##9" xmltv_id="Movies 24+">Movies 24+</channel>
-    <channel update="i" site="virginmedia.com" site_id="true-movies##9" xmltv_id="True Movies">True Movies</channel>
-    <channel update="i" site="virginmedia.com" site_id="film4##9" xmltv_id="Film4">Film4</channel>
-    <channel update="i" site="virginmedia.com" site_id="film4-hd##9" xmltv_id="Film4 HD">Film4 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="film4-plus1##9" xmltv_id="Film4 +1">Film4 +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-premiere-hd##9" xmltv_id="Sky Premiere HD">Sky Premiere HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-showcase-hd##9" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-greats-hd##9" xmltv_id="Sky Superhero HD">Sky Superhero HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-disney-hd##9" xmltv_id="Sky Disney HD">Sky Disney HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-family-hd##9" xmltv_id="Sky Family HD">Sky Family HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-action-hd##9" xmltv_id="Sky Action HD">Sky Action HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-comedy-hd##9" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-thriller-hd##9" xmltv_id="Sky Thriller HD">Sky Thriller HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-drama-romance-hd##9" xmltv_id="Sky Drama &amp; Romance HD">Sky Drama &amp; Romance HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-science-fiction-hd##9" xmltv_id="Sky Sci-Fi &amp; Horror HD">Sky Sci-Fi &amp; Horror HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-select-hd##9" xmltv_id="Sky Select HD">Sky Select HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-news-hq-hd##9" xmltv_id="Sky Sports News HQ HD">Sky Sports News HQ HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-1-hd##9" xmltv_id="Sky Sports 1 HD">Sky Sports 1 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-2-hd##9" xmltv_id="Sky Sports 2 HD">Sky Sports 2 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-3-hd##9" xmltv_id="Sky Sports 3 HD">Sky Sports 3 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-4-hd##9" xmltv_id="Sky Sports 4 HD">Sky Sports 4 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-5-hd##9" xmltv_id="Sky Sports 5 HD">Sky Sports 5 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-f1-hd##9" xmltv_id="Sky Sports F1 HD">Sky Sports F1 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-news-hq##9" xmltv_id="Sky Sports News HQ">Sky Sports News HQ</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-1##9" xmltv_id="Sky Sports 1">Sky Sports 1</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-2##9" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-3##9" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-4##9" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-5##9" xmltv_id="Sky Sports 5">Sky Sports 5</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-sports-f1##9" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
-    <channel update="i" site="virginmedia.com" site_id="eurosport-hd##9" xmltv_id="Eurosport HD">Eurosport HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="eurosport-2-hd##9" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="eurosport##9" xmltv_id="Eurosport">Eurosport</channel>
-    <channel update="i" site="virginmedia.com" site_id="eurosport-2##9" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="virginmedia.com" site_id="mutv##9" xmltv_id="MUTV">MUTV</channel>
-    <channel update="i" site="virginmedia.com" site_id="bt-sport-1-hd##9" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="bt-sport-2-hd##9" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="bt-sport-europe-hd##9" xmltv_id="BT Sports Europe HD">BT Sports Europe HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="bt-sport-espn-hd##9" xmltv_id="BT Sport//ESPN HD">BT Sport//ESPN HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="bt-sport-1##9" xmltv_id="BT Sport 1">BT Sport 1</channel>
-    <channel update="i" site="virginmedia.com" site_id="bt-sport-2##9" xmltv_id="BT Sport 2">BT Sport 2</channel>
-    <channel update="i" site="virginmedia.com" site_id="bt-sport-europe##9" xmltv_id="BT Sports Europe">BT Sports Europe</channel>
-    <channel update="i" site="virginmedia.com" site_id="bt-sport-espn##9" xmltv_id="BT Sport//ESPN">BT Sport//ESPN</channel>
-    <channel update="i" site="virginmedia.com" site_id="attheraces##9" xmltv_id="At The Races">At The Races</channel>
-    <channel update="i" site="virginmedia.com" site_id="racing-uk##9" xmltv_id="Racing UK">Racing UK</channel>
-    <channel update="i" site="virginmedia.com" site_id="liverpool-fc-tv##9" xmltv_id="Liverpool FC TV">Liverpool FC TV</channel>
-    <channel update="i" site="virginmedia.com" site_id="motors-tv##9" xmltv_id="Motors TV">Motors TV</channel>
-    <channel update="i" site="virginmedia.com" site_id="box-nation##9" xmltv_id="Box Nation">Box Nation</channel>
-    <channel update="i" site="virginmedia.com" site_id="premier-sports##9" xmltv_id="Premier Sports TV">Premier Sports TV</channel>
-    <channel update="i" site="virginmedia.com" site_id="bike##9" xmltv_id="Bike">Bike</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc-news##9" xmltv_id="BBC News">BBC News</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-news##9" xmltv_id="Sky News">Sky News</channel>
-    <channel update="i" site="virginmedia.com" site_id="sky-news-hd##9" xmltv_id="Sky News HD">Sky News HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc-news-hd##9" xmltv_id="BBC NEWS HD">BBC NEWS HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc-parliament##9" xmltv_id="BBC Parliament">BBC Parliament</channel>
-    <channel update="i" site="virginmedia.com" site_id="cnn-international##9" xmltv_id="CNN International">CNN International</channel>
-    <channel update="i" site="virginmedia.com" site_id="bloomberg##9" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel update="i" site="virginmedia.com" site_id="cnbc##9" xmltv_id="CNBC">CNBC</channel>
-    <channel update="i" site="virginmedia.com" site_id="euronews##9" xmltv_id="EuroNews">EuroNews</channel>
-    <channel update="i" site="virginmedia.com" site_id="ndtv-24x7##9" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
-    <channel update="i" site="virginmedia.com" site_id="al-jazeera-eng##9" xmltv_id="Al Jazeera">Al Jazeera</channel>
-    <channel update="i" site="virginmedia.com" site_id="france-24-en##9" xmltv_id="FRANCE24 (ENGLISH)">FRANCE24 (ENGLISH)</channel>
-    <channel update="i" site="virginmedia.com" site_id="nhk-world-tv-hd##9" xmltv_id="NHK World HD">NHK World HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="cbbc-channel##9" xmltv_id="CBBC Channel">CBBC Channel</channel>
-    <channel update="i" site="virginmedia.com" site_id="cbeebies##9" xmltv_id="CBeebies">CBeebies</channel>
-    <channel update="i" site="virginmedia.com" site_id="baby-tv##9" xmltv_id="Baby TV">Baby TV</channel>
-    <channel update="i" site="virginmedia.com" site_id="cartoon-network##9" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="virginmedia.com" site_id="cartoon-network-plus1##9" xmltv_id="Cartoon Network +1">Cartoon Network +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="cartoonito##9" xmltv_id="Cartoonito">Cartoonito</channel>
-    <channel update="i" site="virginmedia.com" site_id="disney-xd##9" xmltv_id="Disney XD">Disney XD</channel>
-    <channel update="i" site="virginmedia.com" site_id="disney-xd-plus1##9" xmltv_id="Disney XD +1">Disney XD +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="cbbc-hd##9" xmltv_id="CBBC HD">CBBC HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="cbeebies-hd##9" xmltv_id="CBeebies HD">CBeebies HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="nickelodeon##9" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="virginmedia.com" site_id="nick-plus1##9" xmltv_id="Nick +1">Nick +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="nick-hd##9" xmltv_id="Nick HD">Nick HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="nick-junior##9" xmltv_id="Nick Jr">Nick Jr</channel>
-    <channel update="i" site="virginmedia.com" site_id="nick-jr-2##9" xmltv_id="Nick Jr too">Nick Jr too</channel>
-    <channel update="i" site="virginmedia.com" site_id="nicktoons-tv##9" xmltv_id="Nicktoons TV">Nicktoons TV</channel>
-    <channel update="i" site="virginmedia.com" site_id="disney-channel##9" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="virginmedia.com" site_id="disney-channelplus1##9" xmltv_id="Disney Channel+1">Disney Channel+1</channel>
-    <channel update="i" site="virginmedia.com" site_id="disney-junior##9" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="virginmedia.com" site_id="boomerang##9" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="virginmedia.com" site_id="boomerang-plus1##9" xmltv_id="Boomerang +1">Boomerang +1</channel>
-    <channel update="i" site="virginmedia.com" site_id="cartoon-network-hd##9" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
-    <channel update="i" site="virginmedia.com" site_id="citv##9" xmltv_id="CITV">CITV</channel>
-    <channel update="i" site="virginmedia.com" site_id="tiny-pop##9" xmltv_id="Tiny Pop">Tiny Pop</channel>
-    <channel update="i" site="virginmedia.com" site_id="qvc##9" xmltv_id="QVC">QVC</channel>
-    <channel update="i" site="virginmedia.com" site_id="ideal-world##9" xmltv_id="Ideal World">Ideal World</channel>
-    <channel update="i" site="virginmedia.com" site_id="create-and-craft##9" xmltv_id="Create &amp; Craft">Create &amp; Craft</channel>
-    <channel update="i" site="virginmedia.com" site_id="gems-tv##9" xmltv_id="Gems TV">Gems TV</channel>
-    <channel update="i" site="virginmedia.com" site_id="jewellery-maker##9" xmltv_id="Jewellery Maker">Jewellery Maker</channel>
-    <channel update="i" site="virginmedia.com" site_id="tjc##9" xmltv_id="TJC">TJC</channel>
-    <channel update="i" site="virginmedia.com" site_id="star-gold##9" xmltv_id="Star Gold">Star Gold</channel>
-    <channel update="i" site="virginmedia.com" site_id="star-plus##9" xmltv_id="Star Plus">Star Plus</channel>
-    <channel update="i" site="virginmedia.com" site_id="star-life-ok##9" xmltv_id="Star Life Ok">Star Life Ok</channel>
-    <channel update="i" site="virginmedia.com" site_id="sony-tv-asia##9" xmltv_id="SONY TV Asia">SONY TV Asia</channel>
-    <channel update="i" site="virginmedia.com" site_id="sony-max##9" xmltv_id="SONY MAX">SONY MAX</channel>
-    <channel update="i" site="virginmedia.com" site_id="sony-sab##9" xmltv_id="SONY SAB">SONY SAB</channel>
-    <channel update="i" site="virginmedia.com" site_id="zee-tv##9" xmltv_id="Zee TV">Zee TV</channel>
-    <channel update="i" site="virginmedia.com" site_id="zee-cinema##9" xmltv_id="Zee Cinema">Zee Cinema</channel>
-    <channel update="i" site="virginmedia.com" site_id="and-tv##9" xmltv_id="&amp;TV">&amp;TV</channel>
-    <channel update="i" site="virginmedia.com" site_id="zee-punjabi##9" xmltv_id="Zee Punjabi">Zee Punjabi</channel>
-    <channel update="i" site="virginmedia.com" site_id="zing##9" xmltv_id="Zing">Zing</channel>
-    <channel update="i" site="virginmedia.com" site_id="b4u-movies##9" xmltv_id="B4U Movies">B4U Movies</channel>
-    <channel update="i" site="virginmedia.com" site_id="b4u-music##9" xmltv_id="B4U Music">B4U Music</channel>
-    <channel update="i" site="virginmedia.com" site_id="ary-digital##9" xmltv_id="ARY Digital">ARY Digital</channel>
-    <channel update="i" site="virginmedia.com" site_id="ary-news##9" xmltv_id="ARY News UK">ARY News UK</channel>
-    <channel update="i" site="virginmedia.com" site_id="tv5##9" xmltv_id="TV5">TV5</channel>
-    <channel update="i" site="virginmedia.com" site_id="colors##9" xmltv_id="Colors">Colors</channel>
-    <channel update="i" site="virginmedia.com" site_id="rishtey-europe##9" xmltv_id="Rishtey Europe">Rishtey Europe</channel>
-    <channel update="i" site="virginmedia.com" site_id="ndtv-good-times##9" xmltv_id="NDTV Good Times">NDTV Good Times</channel>
-    <channel update="i" site="virginmedia.com" site_id="ump-movies##9" xmltv_id="UMP Movies">UMP Movies</channel>
-    <channel update="i" site="virginmedia.com" site_id="al-jazeera##9" xmltv_id="Al Jazeera">Al Jazeera</channel>
-    <channel update="i" site="virginmedia.com" site_id="france-24-fr##9" xmltv_id="FRANCE24 (FRANCAIS)">FRANCE24 (FRANCAIS)</channel>
-    <channel update="i" site="virginmedia.com" site_id="hum-europe##9" xmltv_id="HUM Europe">HUM Europe</channel>
-    <channel update="i" site="virginmedia.com" site_id="nollywood-movies##9" xmltv_id="Nollywood Movies">Nollywood Movies</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc-one-audio-desc##9" xmltv_id="BBC ONE Audio Desc">BBC ONE Audio Desc</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc-two-audio-desc##9" xmltv_id="BBC TWO Audio Desc">BBC TWO Audio Desc</channel>
-    <channel update="i" site="virginmedia.com" site_id="itv-audio-desc##9" xmltv_id="ITV Audio Desc">ITV Audio Desc</channel>
-    <channel update="i" site="virginmedia.com" site_id="channel-4-audio-desc##9" xmltv_id="Channel 4 Audio Desc">Channel 4 Audio Desc</channel>
-    <channel update="i" site="virginmedia.com" site_id="channel-5-audio-desc##9" xmltv_id="Channel 5 Audio Desc">Channel 5 Audio Desc</channel>
-    <channel update="i" site="virginmedia.com" site_id="s4c-ad##9" xmltv_id="S4c AD">S4c AD</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc1-england##9" xmltv_id="BBC1 England">BBC1 England</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc1-scotland##9" xmltv_id="BBC1 Scotland">BBC1 Scotland</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc1-n-ireland##9" xmltv_id="BBC1 N Ireland">BBC1 N Ireland</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc1-wales##9" xmltv_id="BBC1 Wales">BBC1 Wales</channel>
-    <channel update="i" site="virginmedia.com" site_id="bbc2-england##9" xmltv_id="BBC2 England">BBC2 England</channel>
+    <channel update="i" site="virginmedia.com" site_id="2260" xmltv_id="PPV PPC">PPV PPC</channel>
+    <channel update="i" site="virginmedia.com" site_id="2038" xmltv_id="Kids Tier">Kids Tier</channel>
+    <channel update="i" site="virginmedia.com" site_id="2041" xmltv_id="Asian Mela Tier">Asian Mela Tier</channel>
+    <channel update="i" site="virginmedia.com" site_id="302" xmltv_id="TNT Sport PPV One">TNT Sport PPV One</channel>
+    <channel update="i" site="virginmedia.com" site_id="317" xmltv_id="Sky Events">Sky Events</channel>
+    <channel update="i" site="virginmedia.com" site_id="306" xmltv_id="PPV">PPV</channel>
+    <channel update="i" site="virginmedia.com" site_id="1163" xmltv_id="Sky Events HD">Sky Events HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="318" xmltv_id="TNT Sport PPV Two">TNT Sport PPV Two</channel>
+    <channel update="i" site="virginmedia.com" site_id="1839" xmltv_id="TNT Sport 6">TNT Sport 6</channel>
+    <channel update="i" site="virginmedia.com" site_id="1840" xmltv_id="TNT Sport 7">TNT Sport 7</channel>
+    <channel update="i" site="virginmedia.com" site_id="1841" xmltv_id="TNT Sport 8">TNT Sport 8</channel>
+    <channel update="i" site="virginmedia.com" site_id="1842" xmltv_id="TNT Sport 9">TNT Sport 9</channel>
+    <channel update="i" site="virginmedia.com" site_id="1843" xmltv_id="TNT Sport 10">TNT Sport 10</channel>
+    <channel update="i" site="virginmedia.com" site_id="2364" xmltv_id="GreyHorse">GreyHorse</channel>
+    <channel update="i" site="virginmedia.com" site_id="2239" xmltv_id="ITV Tier">ITV Tier</channel>
+    <channel update="i" site="virginmedia.com" site_id="2346" xmltv_id="Ch4 Tier">Ch4 Tier</channel>
+    <channel update="i" site="virginmedia.com" site_id="1795" xmltv_id="TNT Sport 5">TNT Sport 5</channel>
+    <channel update="i" site="virginmedia.com" site_id="2347" xmltv_id="STV Tier">STV Tier</channel>
+    <channel update="i" site="virginmedia.com" site_id="1846" xmltv_id="TNT Sport Extra 0">TNT Sport Extra 0</channel>
+    <channel update="i" site="virginmedia.com" site_id="1865" xmltv_id="Virgin TV Highlights">Virgin TV Highlights</channel>
+    <channel update="i" site="virginmedia.com" site_id="2192" xmltv_id="BBC ONE London HD">BBC ONE London HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2007" xmltv_id="BBC TWO HD">BBC TWO HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2122" xmltv_id="ITV1 HD">ITV1 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2021" xmltv_id="Channel 4HD">Channel 4HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1496" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1464" xmltv_id="E4 HD">E4 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2240" xmltv_id="BBC THREE HD">BBC THREE HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2244" xmltv_id="BBC FOUR HD">BBC FOUR HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1548" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1406" xmltv_id="Sky Witness HD">Sky Witness HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2181" xmltv_id="Sky Max HD">Sky Max HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2119" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2375" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1600" xmltv_id="U&amp;Alibi HD">U&amp;Alibi HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1597" xmltv_id="ITV2 HD">ITV2 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1750" xmltv_id="U&amp;Drama HD">U&amp;Drama HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1598" xmltv_id="ITV3 HD">ITV3 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1599" xmltv_id="ITV4 HD">ITV4 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1800" xmltv_id="ITV Quiz HD">ITV Quiz HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2299" xmltv_id="5 USA">5 USA</channel>
+    <channel update="i" site="virginmedia.com" site_id="2083" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1465" xmltv_id="Sky Sci-Fi HD">Sky Sci-Fi HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1564" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="168" xmltv_id="U&amp;GOLD HD">U&amp;GOLD HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1570" xmltv_id="U&amp;W HD">U&amp;W HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="197" xmltv_id="5STAR">5STAR</channel>
+    <channel update="i" site="virginmedia.com" site_id="1571" xmltv_id="U&amp;Dave HD">U&amp;Dave HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2377" xmltv_id="Quest HD">Quest HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="222" xmltv_id="U&amp;Yesterday HD">U&amp;Yesterday HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1958" xmltv_id="5ACTION HD">5ACTION HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1974" xmltv_id="Sky HISTORY HD">Sky HISTORY HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1497" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="568" xmltv_id="Crime+Inv HD">Crime+Inv HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1732" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1384" xmltv_id="Sky Mix HD">Sky Mix HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="236" xmltv_id="Together TV">Together TV</channel>
+    <channel update="i" site="virginmedia.com" site_id="2379" xmltv_id="Quest Red">Quest Red</channel>
+    <channel update="i" site="virginmedia.com" site_id="1474" xmltv_id="5Select">5Select</channel>
+    <channel update="i" site="virginmedia.com" site_id="198" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="virginmedia.com" site_id="2394" xmltv_id="TNT Sports Olympics 1">TNT Sports Olympics 1</channel>
+    <channel update="i" site="virginmedia.com" site_id="2395" xmltv_id="TNT Sports Olympics 2">TNT Sports Olympics 2</channel>
+    <channel update="i" site="virginmedia.com" site_id="1903" xmltv_id="4SevenHD">4SevenHD</channel>
+    <channel update="i" site="virginmedia.com" site_id="265" xmltv_id="E4 Extra">E4 Extra</channel>
+    <channel update="i" site="virginmedia.com" site_id="1753" xmltv_id="More 4 HD">More 4 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="195" xmltv_id="TRUE CRIME">TRUE CRIME</channel>
+    <channel update="i" site="virginmedia.com" site_id="1579" xmltv_id="LEGEND">LEGEND</channel>
+    <channel update="i" site="virginmedia.com" site_id="2298" xmltv_id="That's TV">That's TV</channel>
+    <channel update="i" site="virginmedia.com" site_id="2355" xmltv_id="That's TV2">That's TV2</channel>
+    <channel update="i" site="virginmedia.com" site_id="2297" xmltv_id="That's TV3">That's TV3</channel>
+    <channel update="i" site="virginmedia.com" site_id="174" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="virginmedia.com" site_id="1767" xmltv_id="London TV">London TV</channel>
+    <channel update="i" site="virginmedia.com" site_id="2150" xmltv_id="BBC ALBA HD">BBC ALBA HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2018" xmltv_id="BBC Scotland HD">BBC Scotland HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2015" xmltv_id="S4C HD">S4C HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="246" xmltv_id="Really">Really</channel>
+    <channel update="i" site="virginmedia.com" site_id="1698" xmltv_id="I.D.">I.D.</channel>
+    <channel update="i" site="virginmedia.com" site_id="1729" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="virginmedia.com" site_id="1346" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="virginmedia.com" site_id="1561" xmltv_id="GREAT! tv">GREAT! tv</channel>
+    <channel update="i" site="virginmedia.com" site_id="213" xmltv_id="LEGEND XTRA">LEGEND XTRA</channel>
+    <channel update="i" site="virginmedia.com" site_id="1688" xmltv_id="TRUE CRIME XTRA">TRUE CRIME XTRA</channel>
+    <channel update="i" site="virginmedia.com" site_id="1910" xmltv_id="Blaze">Blaze</channel>
+    <channel update="i" site="virginmedia.com" site_id="2033" xmltv_id="Virgin TV Ultra HD">Virgin TV Ultra HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1573" xmltv_id="U&amp;Eden HD">U&amp;Eden HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1466" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1713" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="231" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="virginmedia.com" site_id="232" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="virginmedia.com" site_id="230" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="virginmedia.com" site_id="2088" xmltv_id="Nat Geo WILD HD">Nat Geo WILD HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1402" xmltv_id="National GeographicHD">National GeographicHD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1853" xmltv_id="Sky HISTORY 2 HD">Sky HISTORY 2 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1574" xmltv_id="PBS America">PBS America</channel>
+    <channel update="i" site="virginmedia.com" site_id="2127" xmltv_id="Sky Documentaries HD">Sky Documentaries HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2125" xmltv_id="Sky Nature HD">Sky Nature HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="250" xmltv_id="GOD TV">GOD TV</channel>
+    <channel update="i" site="virginmedia.com" site_id="1755" xmltv_id="Netflix">Netflix</channel>
+    <channel update="i" site="virginmedia.com" site_id="2054" xmltv_id="Prime Video">Prime Video</channel>
+    <channel update="i" site="virginmedia.com" site_id="2280" xmltv_id="Inside Crime">Inside Crime</channel>
+    <channel update="i" site="virginmedia.com" site_id="2281" xmltv_id="Real Wild">Real Wild</channel>
+    <channel update="i" site="virginmedia.com" site_id="2282" xmltv_id="Mystery TV">Mystery TV</channel>
+    <channel update="i" site="virginmedia.com" site_id="2283" xmltv_id="HauntTV">HauntTV</channel>
+    <channel update="i" site="virginmedia.com" site_id="2284" xmltv_id="History Hit">History Hit</channel>
+    <channel update="i" site="virginmedia.com" site_id="2279" xmltv_id="5 Cops">5 Cops</channel>
+    <channel update="i" site="virginmedia.com" site_id="2289" xmltv_id="Catfish">Catfish</channel>
+    <channel update="i" site="virginmedia.com" site_id="2334" xmltv_id="U&amp;The Past">U&amp;The Past</channel>
+    <channel update="i" site="virginmedia.com" site_id="2335" xmltv_id="U&amp;Real Heroes">U&amp;Real Heroes</channel>
+    <channel update="i" site="virginmedia.com" site_id="2336" xmltv_id="U&amp;Transport">U&amp;Transport</channel>
+    <channel update="i" site="virginmedia.com" site_id="2286" xmltv_id="HomesUnderTheHammer">HomesUnderTheHammer</channel>
+    <channel update="i" site="virginmedia.com" site_id="2371" xmltv_id="Inside Outside">Inside Outside</channel>
+    <channel update="i" site="virginmedia.com" site_id="2331" xmltv_id="Hell's Kitchen">Hell's Kitchen</channel>
+    <channel update="i" site="virginmedia.com" site_id="2338" xmltv_id="History Hunters">History Hunters</channel>
+    <channel update="i" site="virginmedia.com" site_id="2339" xmltv_id="Real Crime">Real Crime</channel>
+    <channel update="i" site="virginmedia.com" site_id="2366" xmltv_id="Wonder">Wonder</channel>
+    <channel update="i" site="virginmedia.com" site_id="2333" xmltv_id="U&amp;Laughs">U&amp;Laughs</channel>
+    <channel update="i" site="virginmedia.com" site_id="2291" xmltv_id="NextUp Live Comedy">NextUp Live Comedy</channel>
+    <channel update="i" site="virginmedia.com" site_id="2292" xmltv_id="The Chat Show Channel">The Chat Show Channel</channel>
+    <channel update="i" site="virginmedia.com" site_id="2301" xmltv_id="Baywatch">Baywatch</channel>
+    <channel update="i" site="virginmedia.com" site_id="2361" xmltv_id="Love Pets">Love Pets</channel>
+    <channel update="i" site="virginmedia.com" site_id="2370" xmltv_id="CSI on PlutoTV">CSI on PlutoTV</channel>
+    <channel update="i" site="virginmedia.com" site_id="2293" xmltv_id="Deal or No Deal">Deal or No Deal</channel>
+    <channel update="i" site="virginmedia.com" site_id="2353" xmltv_id="Mythbusters">Mythbusters</channel>
+    <channel update="i" site="virginmedia.com" site_id="2354" xmltv_id="Tipping Point">Tipping Point</channel>
+    <channel update="i" site="virginmedia.com" site_id="2332" xmltv_id="Eggheads">Eggheads</channel>
+    <channel update="i" site="virginmedia.com" site_id="2337" xmltv_id="Deal Masters">Deal Masters</channel>
+    <channel update="i" site="virginmedia.com" site_id="2031" xmltv_id="NOW 70s">NOW 70s</channel>
+    <channel update="i" site="virginmedia.com" site_id="1956" xmltv_id="NOW 80s">NOW 80s</channel>
+    <channel update="i" site="virginmedia.com" site_id="2348" xmltv_id="NOW 90s &amp; 00s">NOW 90s &amp; 00s</channel>
+    <channel update="i" site="virginmedia.com" site_id="2030" xmltv_id="NOW ROCK">NOW ROCK</channel>
+    <channel update="i" site="virginmedia.com" site_id="1855" xmltv_id="Clubland TV">Clubland TV</channel>
+    <channel update="i" site="virginmedia.com" site_id="2373" xmltv_id="Classica">Classica</channel>
+    <channel update="i" site="virginmedia.com" site_id="2372" xmltv_id="DJazz">DJazz</channel>
+    <channel update="i" site="virginmedia.com" site_id="2344" xmltv_id="ZenLIFE">ZenLIFE</channel>
+    <channel update="i" site="virginmedia.com" site_id="2345" xmltv_id="Qello Concerts">Qello Concerts</channel>
+    <channel update="i" site="virginmedia.com" site_id="1553" xmltv_id="ITV1 +1">ITV1 +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1322" xmltv_id="Channel 4 +1">Channel 4 +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1671" xmltv_id="Channel 5+1">Channel 5+1</channel>
+    <channel update="i" site="virginmedia.com" site_id="194" xmltv_id="E4 +1">E4 +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="140" xmltv_id="SkyWitness +1">SkyWitness +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="2383" xmltv_id="TLC+1">TLC+1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1343" xmltv_id="U&amp;Alibi+1">U&amp;Alibi+1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1454" xmltv_id="ITV2 +1">ITV2 +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="2061" xmltv_id="U&amp;Drama +1">U&amp;Drama +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1455" xmltv_id="ITV3 +1">ITV3 +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1456" xmltv_id="ITV4 +1">ITV4 +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="2385" xmltv_id="5 USA +1">5 USA +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1397" xmltv_id="Sky Crime +1">Sky Crime +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="169" xmltv_id="U&amp;GOLD+1">U&amp;GOLD+1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1363" xmltv_id="U&amp;W +1">U&amp;W +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1892" xmltv_id="5STAR +1">5STAR +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="171" xmltv_id="U&amp;DaveJaVu">U&amp;DaveJaVu</channel>
+    <channel update="i" site="virginmedia.com" site_id="2381" xmltv_id="Quest +1">Quest +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1452" xmltv_id="U&amp;Yesterday +1">U&amp;Yesterday +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1325" xmltv_id="Comedy Central +1">Comedy Central +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1972" xmltv_id="Crime+Inv +1">Crime+Inv +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1652" xmltv_id="More 4 +1">More 4 +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="2143" xmltv_id="Welcome">Welcome</channel>
+    <channel update="i" site="virginmedia.com" site_id="2374" xmltv_id="Really +1">Really +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1699" xmltv_id="I.D.+1">I.D.+1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1700" xmltv_id="DMAX + 1">DMAX + 1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1453" xmltv_id="U&amp;Eden +1">U&amp;Eden +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="228" xmltv_id="Discovery Chan +1">Discovery Chan +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1704" xmltv_id="Animal Planet +1">Animal Planet +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1703" xmltv_id="Discovery Science +1">Discovery Science +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1701" xmltv_id="Discovery History +1">Discovery History +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="235" xmltv_id="National Geographic+1">National Geographic+1</channel>
+    <channel update="i" site="virginmedia.com" site_id="276" xmltv_id="Store">Store</channel>
+    <channel update="i" site="virginmedia.com" site_id="1510" xmltv_id="Sky Premiere HD">Sky Premiere HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1519" xmltv_id="Sky Cult Classics">Sky Cult Classics</channel>
+    <channel update="i" site="virginmedia.com" site_id="1511" xmltv_id="Sky Jurassic">Sky Jurassic</channel>
+    <channel update="i" site="virginmedia.com" site_id="1518" xmltv_id="Sky Greats HD">Sky Greats HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1514" xmltv_id="Sky Family HD">Sky Family HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1513" xmltv_id="Sky Action HD">Sky Action HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1512" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1515" xmltv_id="Sky Thriller HD">Sky Thriller HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1516" xmltv_id="Sky Drama HD">Sky Drama HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1517" xmltv_id="SkySciFi &amp; Hor HD">SkySciFi &amp; Hor HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2141" xmltv_id="Sky Animation HD">Sky Animation HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="567" xmltv_id="Movies 24">Movies 24</channel>
+    <channel update="i" site="virginmedia.com" site_id="1338" xmltv_id="Movies 24+">Movies 24+</channel>
+    <channel update="i" site="virginmedia.com" site_id="1341" xmltv_id="GREAT! Romance">GREAT! Romance</channel>
+    <channel update="i" site="virginmedia.com" site_id="1894" xmltv_id="GREAT! mystery">GREAT! mystery</channel>
+    <channel update="i" site="virginmedia.com" site_id="1893" xmltv_id="GREAT! action">GREAT! action</channel>
+    <channel update="i" site="virginmedia.com" site_id="1470" xmltv_id="Film4 HD">Film4 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="293" xmltv_id="Film4 +1">Film4 +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1909" xmltv_id="Talking Pictures">Talking Pictures</channel>
+    <channel update="i" site="virginmedia.com" site_id="2369" xmltv_id="Brit Screen Classics">Brit Screen Classics</channel>
+    <channel update="i" site="virginmedia.com" site_id="2368" xmltv_id="Wedo Movies">Wedo Movies</channel>
+    <channel update="i" site="virginmedia.com" site_id="2362" xmltv_id="Rakuten TV Top Movies">Rakuten TV Top Movies</channel>
+    <channel update="i" site="virginmedia.com" site_id="2363" xmltv_id="Rakuten TV Action">Rakuten TV Action</channel>
+    <channel update="i" site="virginmedia.com" site_id="2388" xmltv_id="Rakuten TV Drama">Rakuten TV Drama</channel>
+    <channel update="i" site="virginmedia.com" site_id="2387" xmltv_id="Rakuten TV Comedy">Rakuten TV Comedy</channel>
+    <channel update="i" site="virginmedia.com" site_id="2389" xmltv_id="Rakuten TV Sci-Fi">Rakuten TV Sci-Fi</channel>
+    <channel update="i" site="virginmedia.com" site_id="2020" xmltv_id="Channel Update">Channel Update</channel>
+    <channel update="i" site="virginmedia.com" site_id="1520" xmltv_id="Sky SportsMainEventHD">Sky SportsMainEventHD</channel>
+    <channel update="i" site="virginmedia.com" site_id="319" xmltv_id="Sky Sports Main Event">Sky Sports Main Event</channel>
+    <channel update="i" site="virginmedia.com" site_id="1786" xmltv_id="Sky Sports PL">Sky Sports PL</channel>
+    <channel update="i" site="virginmedia.com" site_id="1787" xmltv_id="Sky Sports PL HD">Sky Sports PL HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1923" xmltv_id="Sky Sports Football">Sky Sports Football</channel>
+    <channel update="i" site="virginmedia.com" site_id="1924" xmltv_id="Sky Sports FootballHD">Sky Sports FootballHD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1521" xmltv_id="Sky Sports Cricket HD">Sky Sports Cricket HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="320" xmltv_id="Sky Sports Cricket">Sky Sports Cricket</channel>
+    <channel update="i" site="virginmedia.com" site_id="1770" xmltv_id="Sky Sports Golf HD">Sky Sports Golf HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="322" xmltv_id="Sky Sports Golf">Sky Sports Golf</channel>
+    <channel update="i" site="virginmedia.com" site_id="1595" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1771" xmltv_id="Sky Sports F1 HD">Sky Sports F1 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1769" xmltv_id="Sky Sports Action HD">Sky Sports Action HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="321" xmltv_id="Sky Sports Action">Sky Sports Action</channel>
+    <channel update="i" site="virginmedia.com" site_id="1921" xmltv_id="Sky Sports +">Sky Sports +</channel>
+    <channel update="i" site="virginmedia.com" site_id="1922" xmltv_id="Sky Sports + HD">Sky Sports + HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1802" xmltv_id="Sky Sports News HD">Sky Sports News HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1890" xmltv_id="Sky Sports Mix HD">Sky Sports Mix HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="329" xmltv_id="Sky Sports Racing HD">Sky Sports Racing HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2326" xmltv_id="Sky Sports Tennis">Sky Sports Tennis</channel>
+    <channel update="i" site="virginmedia.com" site_id="2327" xmltv_id="Sky Sports Tennis HD">Sky Sports Tennis HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1744" xmltv_id="TNT Sports 1 HD">TNT Sports 1 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1745" xmltv_id="TNT Sports 2 HD">TNT Sports 2 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1837" xmltv_id="TNT Sports 3 HD">TNT Sports 3 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1405" xmltv_id="TNT Sports 4 HD">TNT Sports 4 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1954" xmltv_id="TNT Ultimate">TNT Ultimate</channel>
+    <channel update="i" site="virginmedia.com" site_id="327" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="virginmedia.com" site_id="2392" xmltv_id="TNT Sports Olympics 1">TNT Sports Olympics 1</channel>
+    <channel update="i" site="virginmedia.com" site_id="2393" xmltv_id="TNT Sports Olympics 2">TNT Sports Olympics 2</channel>
+    <channel update="i" site="virginmedia.com" site_id="2057" xmltv_id="Channel Update">Channel Update</channel>
+    <channel update="i" site="virginmedia.com" site_id="1850" xmltv_id="Channel Update">Channel Update</channel>
+    <channel update="i" site="virginmedia.com" site_id="1851" xmltv_id="Channel Update">Channel Update</channel>
+    <channel update="i" site="virginmedia.com" site_id="2257" xmltv_id="Sky SportMainEventUHD">Sky SportMainEventUHD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2259" xmltv_id="Sky Sports F1 UHD">Sky Sports F1 UHD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2258" xmltv_id="Sky Sports Ultra HD 1">Sky Sports Ultra HD 1</channel>
+    <channel update="i" site="virginmedia.com" site_id="2265" xmltv_id="Sky Sports Ultra HD 2">Sky Sports Ultra HD 2</channel>
+    <channel update="i" site="virginmedia.com" site_id="330" xmltv_id="Racing TV">Racing TV</channel>
+    <channel update="i" site="virginmedia.com" site_id="1816" xmltv_id="Liverpool FC TV">Liverpool FC TV</channel>
+    <channel update="i" site="virginmedia.com" site_id="1761" xmltv_id="Premier Sports 1">Premier Sports 1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1961" xmltv_id="Premier Sports 2">Premier Sports 2</channel>
+    <channel update="i" site="virginmedia.com" site_id="2365" xmltv_id="Premier Sports Rugby">Premier Sports Rugby</channel>
+    <channel update="i" site="virginmedia.com" site_id="2341" xmltv_id="Red Bull TV">Red Bull TV</channel>
+    <channel update="i" site="virginmedia.com" site_id="2342" xmltv_id="Trace Sports Stars">Trace Sports Stars</channel>
+    <channel update="i" site="virginmedia.com" site_id="1756" xmltv_id="BBC NEWS HD">BBC NEWS HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1801" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2165" xmltv_id="GB News">GB News</channel>
+    <channel update="i" site="virginmedia.com" site_id="2198" xmltv_id="BBC Parliament HD">BBC Parliament HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="339" xmltv_id="Bloomberg HD">Bloomberg HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="352" xmltv_id="CNBC HD">CNBC HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="354" xmltv_id="euronews">euronews</channel>
+    <channel update="i" site="virginmedia.com" site_id="1587" xmltv_id="NDTV World">NDTV World</channel>
+    <channel update="i" site="virginmedia.com" site_id="1673" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="virginmedia.com" site_id="1722" xmltv_id="France 24 English HD">France 24 English HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2352" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1749" xmltv_id="Kids TV On Demand">Kids TV On Demand</channel>
+    <channel update="i" site="virginmedia.com" site_id="1759" xmltv_id="CBBC HD">CBBC HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1760" xmltv_id="CBeebies HD">CBeebies HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="391" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="virginmedia.com" site_id="1696" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="407" xmltv_id="Cartoon Network +1">Cartoon Network +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1469" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="virginmedia.com" site_id="2264" xmltv_id="Sky Kids HD">Sky Kids HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1734" xmltv_id="Nick HD">Nick HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="396" xmltv_id="Nick +1">Nick +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="397" xmltv_id="Nick Jr. HD">Nick Jr. HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1324" xmltv_id="Nick Jr Too">Nick Jr Too</channel>
+    <channel update="i" site="virginmedia.com" site_id="1399" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="virginmedia.com" site_id="405" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="virginmedia.com" site_id="406" xmltv_id="Boomerang +1">Boomerang +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="409" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="virginmedia.com" site_id="1868" xmltv_id="QVC Beauty">QVC Beauty</channel>
+    <channel update="i" site="virginmedia.com" site_id="1867" xmltv_id="QVC Style">QVC Style</channel>
+    <channel update="i" site="virginmedia.com" site_id="2177" xmltv_id="QVC Extra">QVC Extra</channel>
+    <channel update="i" site="virginmedia.com" site_id="414" xmltv_id="Ideal World">Ideal World</channel>
+    <channel update="i" site="virginmedia.com" site_id="2330" xmltv_id="HobbyMaker HD">HobbyMaker HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="418" xmltv_id="Gemporia">Gemporia</channel>
+    <channel update="i" site="virginmedia.com" site_id="1739" xmltv_id="TJC HD">TJC HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2360" xmltv_id="Cruise1st.tv">Cruise1st.tv</channel>
+    <channel update="i" site="virginmedia.com" site_id="1689" xmltv_id="Utsav Gold HD">Utsav Gold HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1677" xmltv_id="Utsav Bharat">Utsav Bharat</channel>
+    <channel update="i" site="virginmedia.com" site_id="424" xmltv_id="Utsav Plus HD">Utsav Plus HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="425" xmltv_id="SONY TV HD">SONY TV HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="422" xmltv_id="SONY MAX HD">SONY MAX HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1705" xmltv_id="SONY SAB HD">SONY SAB HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2032" xmltv_id="SONY MAX2">SONY MAX2</channel>
+    <channel update="i" site="virginmedia.com" site_id="426" xmltv_id="Zee TV HD">Zee TV HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="427" xmltv_id="Zee Cinema HD">Zee Cinema HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2350" xmltv_id="Zee Punjabi">Zee Punjabi</channel>
+    <channel update="i" site="virginmedia.com" site_id="430" xmltv_id="B4U Movies">B4U Movies</channel>
+    <channel update="i" site="virginmedia.com" site_id="431" xmltv_id="B4U Music">B4U Music</channel>
+    <channel update="i" site="virginmedia.com" site_id="2166" xmltv_id="Colors Gujarati">Colors Gujarati</channel>
+    <channel update="i" site="virginmedia.com" site_id="1562" xmltv_id="COLORS HD">COLORS HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1675" xmltv_id="Colors Rishtey">Colors Rishtey</channel>
+    <channel update="i" site="virginmedia.com" site_id="1927" xmltv_id="Colors Cineplex">Colors Cineplex</channel>
+    <channel update="i" site="virginmedia.com" site_id="1674" xmltv_id="Al Jazeera Arabic">Al Jazeera Arabic</channel>
+    <channel update="i" site="virginmedia.com" site_id="1911" xmltv_id="Islam Channel English">Islam Channel English</channel>
+    <channel update="i" site="virginmedia.com" site_id="2248" xmltv_id="BBC ONE London HD">BBC ONE London HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2249" xmltv_id="BBC ONE Scotland HD">BBC ONE Scotland HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2250" xmltv_id="BBC ONE NI HD">BBC ONE NI HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2251" xmltv_id="BBC ONE Wales HD">BBC ONE Wales HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2252" xmltv_id="BBC TWO HD">BBC TWO HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="461" xmltv_id="BBC Radio 1">BBC Radio 1</channel>
+    <channel update="i" site="virginmedia.com" site_id="462" xmltv_id="BBC Radio 2">BBC Radio 2</channel>
+    <channel update="i" site="virginmedia.com" site_id="463" xmltv_id="BBC Radio 3">BBC Radio 3</channel>
+    <channel update="i" site="virginmedia.com" site_id="464" xmltv_id="BBC Radio 4">BBC Radio 4</channel>
+    <channel update="i" site="virginmedia.com" site_id="465" xmltv_id="BBC Radio 5 live">BBC Radio 5 live</channel>
+    <channel update="i" site="virginmedia.com" site_id="466" xmltv_id="BBC News World Svc">BBC News World Svc</channel>
+    <channel update="i" site="virginmedia.com" site_id="467" xmltv_id="BBC Radio 1 Xtra">BBC Radio 1 Xtra</channel>
+    <channel update="i" site="virginmedia.com" site_id="468" xmltv_id="BBC Radio 5 Sports Ex">BBC Radio 5 Sports Ex</channel>
+    <channel update="i" site="virginmedia.com" site_id="469" xmltv_id="BBC Radio 6 Music">BBC Radio 6 Music</channel>
+    <channel update="i" site="virginmedia.com" site_id="470" xmltv_id="BBC Radio 4 Extra">BBC Radio 4 Extra</channel>
+    <channel update="i" site="virginmedia.com" site_id="472" xmltv_id="BBC Asian Network">BBC Asian Network</channel>
+    <channel update="i" site="virginmedia.com" site_id="2029" xmltv_id="BBC Radio Cymru 2">BBC Radio Cymru 2</channel>
+    <channel update="i" site="virginmedia.com" site_id="476" xmltv_id="Smooth Radio">Smooth Radio</channel>
+    <channel update="i" site="virginmedia.com" site_id="478" xmltv_id="RTE Radio">RTE Radio</channel>
+    <channel update="i" site="virginmedia.com" site_id="479" xmltv_id="Heart">Heart</channel>
+    <channel update="i" site="virginmedia.com" site_id="1326" xmltv_id="LBC">LBC</channel>
+    <channel update="i" site="virginmedia.com" site_id="481" xmltv_id="World Radio Network">World Radio Network</channel>
+    <channel update="i" site="virginmedia.com" site_id="480" xmltv_id="Heart 80s">Heart 80s</channel>
+    <channel update="i" site="virginmedia.com" site_id="483" xmltv_id="Classic FM">Classic FM</channel>
+    <channel update="i" site="virginmedia.com" site_id="549" xmltv_id="Gold Radio.">Gold Radio.</channel>
+    <channel update="i" site="virginmedia.com" site_id="489" xmltv_id="talkSPORT">talkSPORT</channel>
+    <channel update="i" site="virginmedia.com" site_id="492" xmltv_id="BBC Radio Scotland">BBC Radio Scotland</channel>
+    <channel update="i" site="virginmedia.com" site_id="503" xmltv_id="BBC Radio Wales">BBC Radio Wales</channel>
+    <channel update="i" site="virginmedia.com" site_id="508" xmltv_id="BBC Radio Ulster">BBC Radio Ulster</channel>
+    <channel update="i" site="virginmedia.com" site_id="1854" xmltv_id="BBC Radio Foyle">BBC Radio Foyle</channel>
+    <channel update="i" site="virginmedia.com" site_id="523" xmltv_id="BBC Radio nan Gaidhea">BBC Radio nan Gaidhea</channel>
+    <channel update="i" site="virginmedia.com" site_id="529" xmltv_id="BBC Radio Cymru">BBC Radio Cymru</channel>
+    <channel update="i" site="virginmedia.com" site_id="497" xmltv_id="BBC Radio London">BBC Radio London</channel>
+    <channel update="i" site="virginmedia.com" site_id="547" xmltv_id="Capital">Capital</channel>
+    <channel update="i" site="virginmedia.com" site_id="562" xmltv_id="CapitalXTRA">CapitalXTRA</channel>
+    <channel update="i" site="virginmedia.com" site_id="557" xmltv_id="Radio X">Radio X</channel>
+    <channel update="i" site="virginmedia.com" site_id="1834" xmltv_id="A Message For Parents">A Message For Parents</channel>
+    <channel update="i" site="virginmedia.com" site_id="298" xmltv_id="Adult Previews">Adult Previews</channel>
+    <channel update="i" site="virginmedia.com" site_id="1164" xmltv_id="Nightly Television X">Nightly Television X</channel>
+    <channel update="i" site="virginmedia.com" site_id="311" xmltv_id="Babes &amp; Brazzers">Babes &amp; Brazzers</channel>
+    <channel update="i" site="virginmedia.com" site_id="1225" xmltv_id="Nightly Adult Channel">Nightly Adult Channel</channel>
+    <channel update="i" site="virginmedia.com" site_id="310" xmltv_id="XXX GirlGirl">XXX GirlGirl</channel>
+    <channel update="i" site="virginmedia.com" site_id="303" xmltv_id="40+">40+</channel>
+    <channel update="i" site="virginmedia.com" site_id="312" xmltv_id="Television X">Television X</channel>
+    <channel update="i" site="virginmedia.com" site_id="1959" xmltv_id="XXX GirlGirl">XXX GirlGirl</channel>
+    <channel update="i" site="virginmedia.com" site_id="314" xmltv_id="Adult Channel">Adult Channel</channel>
+    <channel update="i" site="virginmedia.com" site_id="1896" xmltv_id="Babenation">Babenation</channel>
+    <channel update="i" site="virginmedia.com" site_id="304" xmltv_id="Pure Babes HD">Pure Babes HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1320" xmltv_id="A Message For Parents">A Message For Parents</channel>
+    <channel update="i" site="virginmedia.com" site_id="1919" xmltv_id="BBC RB 1 HD">BBC RB 1 HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="138" xmltv_id="Virgin TV Highlights">Virgin TV Highlights</channel>
+    <channel update="i" site="virginmedia.com" site_id="1989" xmltv_id="Virgin TV Ultra HD">Virgin TV Ultra HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="2092" xmltv_id="TNT Ultimate Duplicate">TNT Ultimate Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2093" xmltv_id="TNT Sports 3 HD Duplicate">TNT Sports 3 HD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2094" xmltv_id="TNT Sports 2 HD Duplicate">TNT Sports 2 HD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2095" xmltv_id="TNT Sports 4 HD Duplicate">TNT Sports 4 HD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2096" xmltv_id="TNT Sports 1 HD Duplicate">TNT Sports 1 HD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2098" xmltv_id="Sky Sports Action Duplicate">Sky Sports Action Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2099" xmltv_id="Sky Sports PL Duplicate">Sky Sports PL Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2100" xmltv_id="Sky Sports F1 Duplicate">Sky Sports F1 Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2101" xmltv_id="Sky Sports Main Event Duplicate">Sky Sports Main Event Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2102" xmltv_id="Sky Sports Football Duplicate">Sky Sports Football Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2103" xmltv_id="Sky Sports Cricket Duplicate">Sky Sports Cricket Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2107" xmltv_id="Sky Sports + Duplicate">Sky Sports + Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2108" xmltv_id="Sky Sports Golf Duplicate">Sky Sports Golf Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2109" xmltv_id="Sky Sports FootballHD Duplicate">Sky Sports FootballHD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2110" xmltv_id="Sky Sports Mix HD Duplicate">Sky Sports Mix HD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2111" xmltv_id="Sky Sports + HD Duplicate">Sky Sports + HD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2112" xmltv_id="Sky Sports Golf HD Duplicate">Sky Sports Golf HD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2113" xmltv_id="Sky Sports News HD Duplicate">Sky Sports News HD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2114" xmltv_id="Sky Sports PL HD Duplicate">Sky Sports PL HD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2115" xmltv_id="Sky Sports Action HD Duplicate">Sky Sports Action HD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2116" xmltv_id="Sky Sports F1 HD Duplicate">Sky Sports F1 HD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2117" xmltv_id="Sky Sports Cricket HD Duplicate">Sky Sports Cricket HD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2120" xmltv_id="Sky SportsMainEventHD Duplicate">Sky SportsMainEventHD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2319" xmltv_id="Sky SportMainEventUHD Duplicate">Sky SportMainEventUHD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2320" xmltv_id="Sky Sports F1 UHD Duplicate">Sky Sports F1 UHD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2321" xmltv_id="Sky Sports Ultra HD 1 Duplicate">Sky Sports Ultra HD 1 Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2322" xmltv_id="Sky Sports Ultra HD 2 Duplicate">Sky Sports Ultra HD 2 Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2328" xmltv_id="Sky Sports Tennis Duplicate">Sky Sports Tennis Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="2329" xmltv_id="Sky Sports Tennis HD Duplicate">Sky Sports Tennis HD Duplicate</channel>
+    <channel update="i" site="virginmedia.com" site_id="1895" xmltv_id="POP">POP</channel>
+    <channel update="i" site="virginmedia.com" site_id="2367" xmltv_id="High Street TV Shop">High Street TV Shop</channel>
+    <channel update="i" site="virginmedia.com" site_id="1733" xmltv_id="MTV MUSIC">MTV MUSIC</channel>
+    <channel update="i" site="virginmedia.com" site_id="1404" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="259" xmltv_id="Club MTV">Club MTV</channel>
+    <channel update="i" site="virginmedia.com" site_id="2090" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="virginmedia.com" site_id="258" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="virginmedia.com" site_id="1484" xmltv_id="TNT Sports HD Final">TNT Sports HD Final</channel>
+    <channel update="i" site="virginmedia.com" site_id="2055" xmltv_id="Channel Update">Channel Update</channel>
+    <channel update="i" site="virginmedia.com" site_id="1711" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1965" xmltv_id="Quest HD">Quest HD</channel>
+    <channel update="i" site="virginmedia.com" site_id="1907" xmltv_id="Quest Red">Quest Red</channel>
+    <channel update="i" site="virginmedia.com" site_id="1709" xmltv_id="Quest +1">Quest +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1044" xmltv_id="TLC+1">TLC+1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1475" xmltv_id="5 USA +1">5 USA +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1751" xmltv_id="TRUE CRIME +1">TRUE CRIME +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="1752" xmltv_id="LEGEND XTRA +1">LEGEND XTRA +1</channel>
+    <channel update="i" site="virginmedia.com" site_id="244" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="virginmedia.com" site_id="245" xmltv_id="HGTV +1">HGTV +1</channel>
   </channels>
 </site>
